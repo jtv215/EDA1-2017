@@ -1,0 +1,16 @@
+%Esto es una linea de comentarios
+% y no hay que tenerla en cuenta
+
+% esta linea tambien es un comentario
+
+% Las dos primeras lineas serán el nombre y la direccion del hotel
+Tryp Almeria
+% ----
+Avenida del Mediterraneo, 127
+
+%Las subsiguientes lineas serán los datos a introducir
+0#029#31638367G#Adrian#Corral#Rodriguez
+6#017#09222853Z#Laura#Garcia#Soto
+
+% Pueden haber lineas incompletas, las cuales no tendremos en cuenta
+0#017#80733197T#Luis

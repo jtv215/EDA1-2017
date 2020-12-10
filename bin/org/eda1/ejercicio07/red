@@ -1,0 +1,49 @@
+% Formato de archivo
+%Las lineas que comiencen con el simbolo % son comentarios...se descartaran
+% @nombre indica el nombre del conjunto de datos (se ignora)
+% @tipo --> tipo de grafo (0 no dirigido; 1 dirigido)
+% @vertices --> indica el nombre de nodos (persona), asi como la lista de personas a los que sigue
+% @relaciones --> muestra un subconjunto de relaciones del grafo; el peso sera el cardinal de la interseccion de amigos a los que siguen las personas que intervienen en la relacion
+% Por ejemplo, el peso de la relacion Eusebio98 y Kina45 sera 2 (Antonio43 y Juan32)
+
+@nombre red social
+
+@tipo 0
+
+@vertices
+
+Eusebio98
+Antonio43 Juan32 Sabina60
+
+Antonio43
+Eusebio98   Juan32 Kina45
+
+
+Kina45
+Antonio43    Eusebio98 Juan32
+
+
+Juan32
+Eusebio98  Kina45
+
+Sabina60
+Kina45 Antonio43
+
+Antonio48
+Juan32  Sabina60   Kina45 
+
+@relaciones
+
+Eusebio98 <<-->> Kina45
+
+
+Antonio48 <<-->> Juan32
+
+Sabina60 <<-->> Kina45
+
+Kina45 <<-->> Antonio43
+
+Antonio43 <<-->> Sabina60
+
+Juan32 <<-->>  Antonio43
+

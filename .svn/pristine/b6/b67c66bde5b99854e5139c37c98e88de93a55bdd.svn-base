@@ -1,0 +1,57 @@
+$Insert
+a
+
+b
+c
+d
+e
+f
+$li
+Error: not one of the given commands.
+
+$Delete 3 8
+Error: the second line number given is greater than the 
+number of the last line in the text.
+
+$Insert
+h
+i
+$Line x
+Error: The command should be followed by a blank space, 
+followed by an integer.
+
+$Line 2
+$Insert
+x
+y
+$Delete
+Error: The command should be followed by a blank space, 
+followed by an integer, followed by a blank space, followed by an integer.
+
+$Delete 3 x
+Error: The command should be followed by a blank space, 
+followed by an integer, followed by a blank space, followed by an integer.
+
+$Delete 3 22
+Error: the second line number given is greater than the 
+number of the last line in the text.
+
+$Delete 3 5
+$Insert
+u
+v
+$Last
+9
+$Done
+***********************
+Here is the final text:
+a
+b
+x
+u
+v
+e
+f
+h
+i
+

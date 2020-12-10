@@ -1,0 +1,27 @@
+$Insert
+a
+
+b
+c
+d
+e
+f
+$li
+$Delete 3 8
+$Insert
+h
+i
+$Line x
+$Line 2
+$Insert
+x
+y
+$Delete
+$Delete 3 x
+$Delete 3 22
+$Delete 3 5
+$Insert
+u
+v
+$Last
+$Done

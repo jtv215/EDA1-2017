@@ -1,0 +1,1175 @@
+%Conjunto de datos de ejemplo
+%Linea sin informacion
+@Type
+Directed
+%Especificacion de los vertices del grafo
+@Vertex
+CRICFLEX#Pakistán#99687498EBCFDB11BE8DFD0CBBDBCA06#https://vimeo.com/167295294#62#To provide everyone from amateur to professional athletes with game changing technology.
+
+RROPERO#México#961649151E316D0681CE611D9FA393E5#https://youtu.be/ViYxs53-lgA#542#Help women have a fashion, trendy & sustainable closet taking full advantage of the use cycle of clothes reducing the environmental impact.
+PROYECTO ACEITE OMEGA 3 DE VÍSCERAS DE PESCADO#Perú#6D3F15BED9C56228E4BCCB2AB681F94D##81#SOMOS UNA EMPRESA DEDICADA A LA COMERCIALIZACIÓN DE PRODUCTOS PESQUEROS PARA LO CUAL CONTAMOS CON EQUIPO EXPERIMENTADO DE COLABORADORES
+DOCTORPLUS#Argentina#47CDC69167A56A88A7C63F23912DCF2A##62#Una solución integral para la comunicación entre médicos y pacientes fuera del consultorio
+
+CAFÉ SANTA CECILIA#Colombia#C588D305C3E7342446C9FCDB649904BA##140#Generar calidad de vida conectando e integrando personas del sector rural y urbano promoviendo el consumo de café orgánico.
+WARDROBE#Brasil#CF89615A9DE07301D404A3873C0E93BF#https://www.youtube.com/watch?v=KAz7OYbiwmI#254#Wardrobe é uma ideia que permitirá conectar pessoas para que elas possam compartilhar e alugar roupa ou acessórios, de uma forma simples
+EVRION#Ecuador#4D17CC3CC4A2FB0A3706EEFD689C8BA5#https://www.youtube.com/watch?v=ekiF2jxgLEA#379#Proveer de energía eléctrica ilimitada a comunidades aisladas por medio de un sistema sustentable, gracias a un proceso fisicoquímico.
+TICTEK#España#AB26D41DC6D9308AC931F9D805C61500##114#Nunca más volverás a perder un ticket de compra ni una garantía! Olvídate del papel y disfruta de los tickets digitales y todas sus ventajas
+INTEGRA#Colombia#DE8B290E2CBA3ACDCBE5F7703FA526FE#https://www.youtube.com/watch?v=fKkMDNU5Sx8#57#Es la primera comunidad y plataforma de educación on-line para aprender de Seguridad Electrónica en Lationoamérica. ¡Obtén trabajo ya!
+
+TUPA'S#España#E4D3B37B0F218999F400B6DF3631AE2A##66#Darle a la Tierra y sus habitantes, una plataforma exclusiva para hacer contacto en virtud del registro visual de lugares de interés.
+
+PSICOLOGIA VIVA#Brasil#66920651A4DA372182E193907657C27B##259#Universalizar la atención psicológica en todo el mundo.
+OWNER GROUP#México#DB71A2107207AD764EA01515532625C6##75#Ayudar a las personas y empresas en todo el mundo a no gastar dinero.
+
+DISEÑO Y CONSTRUCCION#Perú#EF7830BECCE31C60EFA7EE32B0349192##47#CUBRIR LAS NECESIDADES DE NUESTROS CLIENTES Y DANDO OPORTUNIDAD A JÓVENES EMPRENDEDORES DEL SECTOR DE DISEÑO Y CONSTRUCCION
+QUIEROHORA#Chile#9945E78BA10DBCB205B6CE4337E7A4FA##437#Queremos que el encontrar servicios como salud, estética, veterinaria, centros deportivos, mecánicos, gásfiter entre otros sean muy sencillo
+CURRICULUMV#Colombia#81B4B3C6E888286778664CCF1AA95ABD##674#Conectamos tus destrezas, conocimientos y habilidades con el mundo mediante hojas de vida, atractivas, breves y precisas.
+CLOSET DE MADERA ARMABLE SIN NECESIDAD DE CARPINTERO#Venezuela#E0DF9358CBE730F4E5569A06E2E7EA1F##51#En KIRANA tenemos la misión de ayudar a nuestros clientes a vivir con más comodidad dándole soluciones prácticas.
+
+
+SECREA - SECUNDARIA CREATIVA#Perú#FB13F6FB3DDCDB07B7C02FBAB9B92E6C#https://www.youtube.com/watch?v=Lj69CiTctFk&t=3s#1282#Brindar educación de calidad con apoyo de las TI a jóvenes y adultos para culminar su secundaria y mejorar así sus condiciones de vida.
+
+
+
+TRIPTO#España#577A8E9D9DB43D6F29E6D69FED77BB19#https://www.youtube.com/watch?v=-CoqGNYL6oE&feature=youtu.be#221#Es la comunidad de viajeros que te proporciona los mejores compañeros para cada una de tus aventuras.
+TRANSPPORTEMOS#Colombia#6A52109413F6D45B1BC699CF174AF844#https://www.youtube.com/watch?v=SBHOC_mhZ2s#91#Es la Primera Red de Negocios en tiempo REAL para el sector de Transporte de carga que permite ofertar y demandar vehículos y cargas
+DREMFIT COMPANY#Venezuela#A7463E06B8929729B1300A2567508F2A##48#Buscar inversionistas que aporten capital el cual permita impulsar la aplicación a nivel nacional y en otros países de la región...
+
+WUELTO#Venezuela#7E03B621E2EBC9C6BBDFC085BA18044F##34#To allow latin american entrepreneurs to grow their brands and sell their products in the top marketplaces all over the world
+
+MERCADO FLOTANTE#España#82CA699B02E31BC71E0CA6DB81CFA23E##428#Todos los ingredientes necesarios para cocinar cualquier especialidad culinaria del mundo en tu cocina.
+ECOCICLUS MERCADO VIRTUAL#Colombia#68AAF47AECFF57ABFE386D588817D13E##35#Contribuir a la campaña mundial de cero residuos, mediante la comercialización virtual de residuos aprovechables y peligrosos
+TRIPALOC#España#53BCB1E7BAF6EC3151DBA61DAAC6CE3D##204#Planificador de viajes visual con mapas. Crea tu viaje perfecto gracias al software Tripaloc.¡Crea, guarda y comparte tu viaje!
+AGVALI.COM#Brasil#02E616933A00BCACFD107E898B1F407B##65#Brazil's first online marketplace for agricultural inputs, bringing PORTFOLIO & CHOICE to farmers with CONTROL and INSIGHT to Manufacturers.
+2 TICKETS#Brasil#AD48ADE702CE2579AFADD2B6ABBF44E7##95#Proporcionar inovação e acessibilidade para simplificar a compra de ingressos e reduzir o tempo gasto para entrar e sair dos shows e eventos
+HARD MONKEY PC#España#4EA366EE2DC0FDA0BBF85A81332A4040##44#Proporcionar, servicios informáticos asequibles mes a mes para ayudar a PYMES y emprendedores que busquen mejorar su proyecto.
+
+
+KOMPROPIEDAD#Colombia#1D573A2BD0A902F444BB7DCBB0E73C0F##31#Ayudar a las personas a solucionar sus necesidades de materiales, talento humano, financiacion e inmuebles x medio de una plataforma colabot
+
+
+
+TECNICAPP#Colombia#9CFC53E29E99C38E002610B7674FF07E##47#Te ayudamos a encuentra la mejor oferta a tus necesidades de repuestos, servicio técnico o mecánicos, ahorrando tiempo, dinero y esfuerzo,
+SPOONEA.COM#Perú#CDC7DA00A22AC2C2E1AB31895B7B432C##33#Red social gastronómica donde anfitriones y comensales comparten su pasión por la buena comida desde la casa del Cocinero/Chef.
+TUTRANSPORTE#Colombia#83C418718577F4B6F89592D2AAB5B502##214#Ayudamos a las personas a solucionar sus necesidades de transporte ahorrando tiempo, dinero y esfuerzo a través de plataforma colaborativa.
+SOMOSFUT#México#E008A66E3889AEC968A0FF75AC103F0C##182#Digitalizamos la industria del fútbol amateur y acercamos a los jugadores a la experiencia de ser profesional.
+
+TURETO#Colombia#DEF45B862DFDCBBB6C850001FD76486F##127#TuReto es la posibilidad de ganar dinero, demuestra de que estás hecho, escoge una categoría, escoge tu reto, sube un vídeo y gana.
+GOCARGO#Colombia#F76CEE224C66A6D862F4CF129984A520#http://www.youtube.com#317#Somos una empresa de transporte de carga terrestre, Que Apoyados en nuevas tecnologías, innovamos para mejorar los servicios prestados.
+GROWAPP#Colombia#7F3B3578D907C318FAFA1FD1D78524A0##266#Contigo en todos los momentos... desde que inicias tus estudios hasta tu vida laboral y mas allá.
+VIRTUCUGAT#España#E80911479A0D152C9DB4EBD4091F003E##210#Bolsos y accesorios de lujo que funde la tecnología y el diseño con una elaboración artesanal.
+
+CONSUMO Y RECOMIENDO#Perú#2BFA276C989BB8BC8CE9D0668C4BE66D##386#Plataforma que tendrá muchas empresas dispuestas a pagar comisiones a sus consumidores que provengan de una recomendación.
+BOMO#Brasil#40D9749F4891B15EA57F00CAD8363CD1##105#Recompensar com dinheiro todo mês as pessoas que respeitam leis de trânsito e ajudar a tornar as ruas e estradas seguras.
+
+
+HACIENDONUMEROS.COM#España#1A7B727CFD977758107F3161E52A3FB6##45#Haciendonumeros.com es una plataforma online de contratación de servicios mediante subastas donde tú fijas el precio máximo.
+
+INSULCLOCK#España#B08FC44AE730C318A77C7C4DA6BD2314##88#Insulclock, primer dispositivo electrónico que conecta la pluma de insulina con smartphones y la nube para tener tu diabetes bajo control
+
+LINEA CIUDADANA#España#84C76BB084D2099B7C7CC7137E2B9755##83#El Gobierno en tu mano, con tu mano en el Gobierno
+
+TRACEMYMEDIA#México#1DBE10F89C95A369F7513B5B8135D5D7##51#TRACE MY MEDIA es una plataforma que sigue el rastro de tú contenido en cualquier lugar y momento para sumar su valor de mercado y uso.
+GRAN ANGULAR#Venezuela#2718FD57ECC53E5BBB89F5EBEB744462##434#Multiplataforma (radio,redes y web) transmedia de contenidos noticiosos sobre cine latinoamericano
+
+CUVIKO#Perú#5D1ABFB2BE79AF66ABFBA8BEF172744E##434#Si deseas que te hagan un diseño o diseñar, si buscas que te construyan un proyecto o construir o por qué no ambas. Cuviko es la solución.
+
+FUTBOLE#México#538A226D86E3A3A7B13CC47114E12D29#http://futbole.mx#25#Conectar futbolistas aficionados para que puedas practicar el deporte más bello del mundo el fútbol.
+DIET UP#Perú#F6108046830AD4B0B669CCE2B41AD476##765#¡Convierte tu smartphone en un nutricionista! Aplicación móvil que genera un programa nutricional personalizado de manera automática.
+
+SLOW CHEETAH#México#208BDC135EB6CE44141CEFCFF7589A9A##241#Desarrollamos capacitaciones, terapias y videojuegos con realidad virtual (VR) que te guían para aprender a realizar maniobras peligrosas.
+
+ARZE#Perú#0532AEAAC268903CF5CA04001F2065D9##83#Resolver el problema de los personas que arrienda, alquilan y comparten inmuebles, haciendo uso de las nuevas tecnologías.
+
+XEREX#Argentina#51205F127684275D020F0247F0631781##31#Mermando la brecha digital y posibilitando un abanico de oportunidades diferentes mediante las telecomunicaciones en lugares remotos.
+VAQAPP#Argentina#24E97BC67F75457FCD71AA30375BE94D##18#Create the biggest livestock producers network in the world
+
+CURZONA#Venezuela#3263588C7AF3ACD7A0F8BD757D48ADB5##94#Somos una plataforma digital dedicada a colocar al alcance de tu mano lo más actualizado acerca de cursos, talleres, conferencias .
+PETSLOVERIN#España#FFED510D96CB3546DD8878CEB4B7FDC8##189#Proporcionar al propietario de mascotas el mayor catálogo de servicios profesionales y productos para la salud, la alimentación y el ocio
+PHONEKEY#México#760726DFA179F902281714FCECBA3296##59#Insurtech que evolucionará el sistema de inclusión a la protección de bienes, prevención y seguridad humana (como salud) todo desde una App
+
+BLOCK FARMS#España#9A9F3DE12444C2296025742FBCB685CE##53#Block Farms son #huertosurbanos de alta producción destinados al #cultivohidropónico en contenedores marítimos.
+%Linea sin informacion
+%Linea sin informacion
+PIKPLAN#España#90F28B54BE7867AF480B897F568E3302##685#pikplan.. es una plataforma que nace para facilitar la vida a los padres, e informarte de actividades en familia que hay cerca de tí.
+SIMA PROJECT#Chile#C3345B329812CBF7C7860E1ED6531647##414#Acercamos el mundo de los robots a los niños, transformando smartphones en robots sociales educativos y accesibles, capaces de enseñar
+AHORAPAGO#Argentina#E19CCB9C09A41C36AF3C3D0D4EC79F2E#https://youtu.be/rsf22OcfGxQ#157#AhoraPago es una plataforma móvil de pago que permite virtualizar los medios de pago tradicionales y realizar compra/venta al menor costo.
+
+CARTAS DEL CIELO#España#B74A2163CEF9CEBFC66926006E735A7C#https://www.youtube.com/watch?v=gF03V7gyseA#84#Cuánta gente muere al día de forma inesperada?. Qué ocurre con sus secretos, sus recuerdos y las cosas que se dejaron por decir?. Descúbrelo
+%Linea sin informacion
+FAZZIU#Perú#9A1AA0C06814ADFB730843217318ABDB##75#Fazziu es el primer sistema de fácil preparación académica online para el ingreso a las universidades en América Latina.
+LINKARD#Perú#E690E41802C6403E51DB3A5704BBABF3#https://youtu.be/CiZ3knnkkjA#789#Tu tarjeta de presentación CORPORATIVA DIGITAL incrementará tu cartera de clientes, te ahorrará tiempo y dinero, y facilitará tus negocios.
+
+RAZQO#Perú#ADA66DFECCD5A58BFC921694D419AF8C##210#Permitir a los usuarios acceder a precios justos a través de la creación de redes de consumo colaborativo online
+
+
+MOVEON SPORTS TRACKER#España#CF7661F84619F873B326DC8797154797#https://youtu.be/uKtXVppuKo8#210#FREE, Entrenamiento por Intervalos, Frecuencia Cardíaca, Calorías, etc... Premio Buber Sariak Proyecto de #SoftwareLibre. #Running #Ciclismo
+%Linea sin informacion
+EXWI-FIRE#España#435990ACF002ECB7ADF2A937971BDAB9#https://goo.gl/YECrNA#780#Controlar inalámbricamente mediante WIFI o GSM que los extintores tienen la presión adecuada para su funcionamiento.
+
+GUIDY#España#F6FE1A6672B32ED3519D09B1DF198AE1##286#Comunicate de una nueva forma más divertida y sencilla. Queremos hacerte el mundo más interesante, compartiendo y conociendo a nuevos amigos
+
+
+
+APPRIGHT#Argentina#073AD4CCBAE94E40D901EA8E22862AA0##13#Es una Aplicación Mobile innovadora para ayudar a las ONG a recaudar dinero, al mismo tiempo que las empresas realizan Market Research.
+%Linea sin informacion
+
+%Linea sin informacion
+BEERBAY#España#518618B49B92999C9BEF0E13FB2E0E13##14#Crear una nueva categoría en el mercado, el Beertech
+
+WISTLA#Reino Unido#611FF7B203F445A39A241C0D70B16BD0##355#The world's about to get a lot more sociable. Wistla is the first sociable network tailor-made to get you together with your crowds offline.
+MKC#España#EF1708A52AD3FA65770B636A5C8549BD##13#Desarrollo de bacterias electronicas que auditen la estabilidad y seguridad de smarphones basados en iOS, Android y Windows Phone.
+
+INSERTA GROUP#España#972BE4C84BF9D7909DE37A7C95C6C24D##14#Desarrollos tecnologicos y domoticos para moviles. Abrimos con el movil.
+
+
+TALLER TODO HECHO A MANO#Venezuela#1ED18DB19FD61DCEC289AD9DA688FB25##263#Unir en una red directa las empresas de materia prima, productores y compradores finales en arte y modas para proyección internacional.
+
+SUPERVENTAS.CLUB#España#93D6822A470E196EF41214E007FC3F3A#https://www.youtube.com/watch?v=I02LMCkJ3h0#167#La web APP que encuentra los artículos mas vendidos de Internet en cualquier categoría, desde #moda hasta #tecnología y #decoración.
+HIKIMA#Colombia#AB9E0DF864E31F3E657BAEA02CB03BD5##135#Eliminar del mundo la falsificación, adulteración y contrabando de medicamentos, licores, cigarrillos, lubricantes de vehículos, autopa, etc
+SEXOR 7#Colombia#67CBDEEEBB0A03A1A784F08BF8645CD9##56#Entretenimiento para adultos por medio de contenidos (videos, audios, imágenes) totalmente personalizados.
+DRESS60#España#FEBEF375FE7BA84BCF58FF6533D4CD94#https://www.youtube.com/watch?v=H0CLlcXp204#534#Una nueva experiencia a la hora de comprar ropa de forma on line, gracias a un avatar identico a ti con tus propias medidas corporales.
+
+MORECHOICE#Colombia#5AE6A3BA7CB97FA88A82B2E5162FA202##2458#Agilizar el proceso de reserva de espacios para eventos, ahorrando tiempo para los usuarios y disminuyendo la desocupación de los negocios
+CLICKTOM SYSTEM#España#0F919D23D171A1471CDDFEC3B88B9863##45#Herramienta para el hostelero que hace accesible y útil la información de su negocio, y permite la toma de decisiones vitales en tiempo real
+TU/GRUERO#Venezuela#C301036F526D87A50395D10AB5F9D3AA##506#Con una app conectamos a accidentados en la vía con los grueros más cercanos usando GPS. ¡Quedarse accidentado ya no es un problema
+NETBEE.MX#México#06C62707DD8D4FD7CAFC202609AE49E3##172#Terminar con "El Teléfono descompuesto" en cualquier organización generando una sola versión de la verdad
+%Linea sin informacion
+DISCOPERI INC.#España#EFF1589E04D77A5B1E0024A9BC6B7478#https://www.youtube.com/watch?v=HKAmgREUkTE#250#The mission of the startup is to make roads safer: prevent car accidents, driving rules violations and car thieves.
+
+HOMING#Perú#CBE4E1FD040BD509CEB84FB78068970A##145#Es una red social exclusiva para el medio de Marketing y Publicidad y tiene la función de calificar al proveedor, dar datos actualizados.
+ARMA TU VACA#Colombia#75C366D87B3C11D84B41F0ADCCEB4559#https://www.youtube.com/watch?v=_Brgs6nMm0I#70#Buscamos hacer tu vida fácil y que tus amigos no te vuelvan a decir "mañana te pago" al momento de organizar un evento entre amigos
+
+BRACI#Reino Unido#09ABAD6FD7E2B785480B7E60023860ED#https://www.youtube.com/watch?v=zY6uZBO3Lts#24#A sound recognition platform that is used to ensure peoples safety, security and comfort by making sense of sounds around us.
+WWW.MICLICKCR.COM#Costa Rica#CE364853B4E418474BEB77C16B81276E##58#Facilitar la búsqueda de información en la web de servicios diversos con publicidad simple, ordenada y accesible
+
+BENEFICIOSCR#Costa Rica#F7174FB13821D577969A2BA42735E389##30#Que los usuarios de nuestra plataforma puedan encontrar lo que buscan, donde lo necesitan, cuando lo quieran.
+UNIWEB#Venezuela#8EE4216E771A5C21ED06C11019343F80#https://youtu.be/jH_ptaSmzJg#573#Plataforma web y app para reimpulsar la educación universitaria. Curso online y gratuito para preparación universitaria. 1er lugar ImpactHub
+BAITS#Perú#3CBE4B219D5E7A8EDFDD6E594A28DA80##27#Enseñar Internet de las Cosas fácil y divertido
+SEGURICEL TELEMÁTICA#Venezuela#E9B23C528D34A9009765B2A5C4325C36#https://www.youtube.com/watch?v=DVJGNDYnt8o#65#Proveer soluciones de seguridad fáciles de usar, operando por celular e internet
+VALENTINBOOK PUBLISHING#Perú#BAE0890F38762C7D8D7413702B513995##44#Brindar el mejor contenido de formación online para que las personas y las empresas de habla hispana desarrollen su potencial”
+GEEVO.IO#Ecuador#D6F9A294DE32DE380DE7851F7E192C1D##104#Ayudamos a crear y mantener mas y mejores movimientos sociales: Manage, Sell and Promote any kind of event. geevo.io #GetYourEventDone
+TODOC#Colombia#6D8B6A9663F277638EBD4C727801BA56#https://www.youtube.com/watch?v=4ALKDTyL4ss#186#Hacer de la salud un sector respetuoso con las personas y eficiente económicamente a través de la gestión eficaz de las citas médicas.
+VIRTUALSPACES#India#A43C841A521DD78BFB19E6F5AF4E6FB7##119#Mobile Virtual Reality startup for Real Estate "yet-to-be-built" properties for consumers to understand scale, size, height & depth
+
+ANDI GAMES LTD#Reino Unido#1BDBD7E9C7C2D18A8C75D33FEFA2ACCE##85#ANDi helps you find the Mobile Games you want to play and enjoy! Don’t waste your time searching through millions of games on the app stores
+
+SIMCARDMOVIL#España#075EE239BA1F00CF6C595AAB71CFBA5A##38#Ofrecer convergencia de servicios moviles. Telefonia movil internacional, envios de dinero, medio de pago bajo la experienc sharing economy
+
+PROFESIONALYA#Argentina#788B6AD61D6EA503BD9154B4E385DCC5##39#No estamos recibiendo el cuidado que necesitamos. Construimos ProfesionalYA para ayudar a resolver este problema.
+
+MICOMUAPP#Chile#87F124222CD8F0A9F8D39E1512C6BC1E##50#La aplicación para mantenerse informado sobre los últimos acontecimientos que ocurren en su comunidad
+%Linea sin informacion
+PHOTTIC#España#7ACC70EE2CEA878F5F79368F47CAFE3E##361#EN PHOTTIC RECUPERAMOS LAS HISTORIAS DE LA FOTOGRAFÍA . Queremos convertirnos en unha BBDD global de fotos, con derechos e historias.
+ALERTRY#España#FE59E8358A5B3A35D668F761CD2114D2##180#Salvar vidas
+PLAKA-PLAKA#España#E6F4F47C859A73BC99EC58736737E166#https://youtu.be/0OLumR060MY#26#Placa que acelera la descongelación de alimentos sin aporte de energía de ningún tipo y sin calentar o modificar el alimento.
+
+
+ONWARD HEALTH#India#0F6D3B9BE8B1F5E72806FFD113D20893##75#Onward helps PostOp patients improve their adherence to their Doctor's instructions, and then helps stay connected to their care network
+QKART#España#5951CF1B63AFF36658397F7C508F29E3##532#Dar un paso hacia el futuro en la industria de la alimentación y en la sociedad del bienestar. Haremos tu vida mucho más cómoda.
+AGOOPA#España#BEB8979FB0531B64DF68B5280868C056##53#La misión de Agoopa es conectar profesionales del sector infantil con una gran comunidad de mamás y papás.
+
+
+
+ANAPPHYLAXIS#España#1049A883FF47ADC1F80C9A9A4CD7B73E##289#MedicalDevice for epinephrine (smart case and associated mobile APP) to improve anaphylaxis management and allergic patients quality of life
+
+WIA#Irlanda#199BBE1A122FA7F6D9CFDA1F5C586C08##34#Wia provides developers with a cloud platform for building Internet of Things applications. Build solutions, not infrastructure.
+TOPWORK#Perú#7454F03A50F6397A0A9429DAC3B39B0E#https://www.youtube.com/watch?v=IigYBJfyYlM#41#TopWork is the LinkedIN of blue and pink collar workers focused on sharing images and comments of daily work in order do be hired easily
+FIRST IN PLACE#España#BAD27348D68AD8D41B2EB4EEEF7D5A6B##57#To help bars and restaurants to fill their business in hours of low activity offering customers happy hours offers on food and drinks
+MYWOORK#España#6FA1DEEDDEB5FFCDAC201647893DD266##53#Un nuevo estilo de trabajo para mejorar la relación entre clientes, proveedores y trabajadores.
+PIZARREITOR.COM#España#7B5D2A04A61E4E56BE18DC58EA99ADCD##95#Los millenials empiezan a ser papás. Pizarreitor.com: buscador y comparador de guarderías, canguros, colegios, academias y profesores.
+KIDE - FASHION#Portugal#9BF3F4C4D0C6578C2D53BC4C82CC9FBE#https://www.youtube.com/watch?v=u1OmjjTmZpg#6#Kide is the personalized marketplace for baby and kids fashion
+PUMPPYSOLUTIONS#España#6302D9AA103E050AFF3335062CC23B45##96#Acercamos el mundo a tus manos. Todo lo que puedas imaginar en la punta de tus dedos.
+
+GETTABOX#España#72298721D84D7156DDA60A3BF16E18B4##11#Gettabox is an online storage and delivery solution that removes the hassles of traditional services.
+
+APPCLON#España#589CD2F391E144BDC94B57536CBE83A5##43#Appclon is the smartest and fastest way to build your app. Simply clone a successful one. Start today your own business copying the bests.
+
+FUNNY#Colombia#7CC797C343E5905D0A624DDAD62C8375##16#Es una startup que recolecta y promueve los mejores planes de la ciudad según los intereses de los usuarios para pasar el tiempo libre
+
+H2GZ ENERGIZING#España#2FB8CE35713F3D03985225A32D56C058##16#PRODUCCIÓN DE ENERGÍA CON PERSONAS. Producción de energía eléctrica y su transformación a HIDRÓGENO.
+CALLIGRÁFICOS MARKETING#Venezuela#E420CFECAC6EEDB19E00502E93C2EE64#https://twitter.com/calligraficos/media#23#Gestionar el contenido para páginas web así como las redes sociales generando contenidos de valor
+NETSSENGER#Perú#098173CF36A9071D503CBECA3EF23A7D##199#Aplicación móvil de mensajería que permite comunicarse eficientemente entre miles de seguidores de redes empresariales o grupos sociales.
+RENTABOOK#Argentina#CDFB5388ECE8DAE86DF6C06A453A496E##16#A menos de diez cuadras de donde vives tenes la biblioteca mas intrigante y distribuida que podrías crear y conocer. Compartí tus libros!
+
+POLLSTR#México#B218B7D220B065CE6567FAFC4CBF23DA##34#Predice el comportamiento de los clientes analizando las conversaciones con las empresas/organizaciones.
+
+
+STREAM GAME#Brasil#D98089E9EBE39890F0199C007104CFA9##76#Ser a principal plataforma de games no mercado.
+DECÓRAME#Venezuela#67A4FAAA9C5BB1792D020826275E45DC##36#A un clic de tu teléfono celular podrás de forma rápida, divertida y sin esfuerzo decorar el evento de tus sueños sin gastar ni un centavo.
+
+
+MP#Venezuela#2A7601BA1FC81C60DB123C8CAC58B1C3##33#MP es una App que permite interpretar el tono a los mensajes que nos envían o que enviamos, esto con el fin de evitar malos entendidos...
+
+UBIONE#Venezuela#8ADC554874A71BBF637EC063DF9D069C##102#¡Encuentra todo lo que necesitas!. Multiples servicios y productos en una sola app ¡every where to be ONE!
+SIMPLY PARK#Perú#940A5B8B24AA1344D83A37C434082B1C##121#Ofrecemos a los conductores un servicio rápido, seguro y a bajo costo de reservas de plazas de parking, mediante el uso de la plataforma.
+ROAD TO ART#España#79194973A1D3CEF396766FE829A65095##53#Red Social de Arte Colaborativo. Crea y comparte proyectos de música, literatura o dibujo y los usuarios podrán colaborar en tu obra.
+VADIOTV#Venezuela#4FD9FFDC1D195530161055D995435F30##39#Comparte lo que ves en youtube con el mundo en tiempo real. Que la distancia no sea excusa, ve junto a amigos series, peliculas y videos
+
+GAMEKIP#España#64247B4585A17685332FB82E367F675D#https://www.youtube.com/watch?v=0D0XcvnVQNM#127#Mediante las tareas y proyectos mejora la comunicación e integración de los equipos de trabajo aumentando su motivación.
+
+BEEPBEEP#Venezuela#2A14714E00C406CC834A878D9ACFEF62##49#Mantener informados a tus seres queridos cuando viajas. Reporta a través de la aplicación y sms sobre tu viaje en tiempo real
+
+PLAYMYHIT#España#F17023FEAF15E8A11B2D6A9C52418852#https://www.playmyhit.com/blog#803#Tú pones la #Música. PlayMyHit permite poner una canción enviando un #Tweet. Increíble, ¿no?
+FIIXIT#España#4342F474717B9B86216569D2C2CBA497##76#¡Despídete de las escayolas! Férulas de inmovilización impresas en 3D
+CARBONWORKS INC.#Estados Unidos#8B293EE5602AA125B5633E5CA6A4AB5C##17#Our mission is to change the way electronic products are made, using carbon-fibre and composite materials we've developed CarbonMobile
+DATIOTEC AEROESPACIAL#México#D9478B24888006A4B319DEC0356AE408#https://www.youtube.com/watch?v=9CiZC9Y3BJU&t=1s#127#Desarrollar tecnología espacial para acercar el espacio a tus manos y facilitar el surgimiento de aplicaciones que mejoren nuestras vidas.
+QÜILO#Guatemala#8CFF87FE85FDB983AA37E092E489AD2A##1099#Creamos un mundo en donde la tecnología móvil facilita el acceso a seguros de bajo costo para proteger el futuro de las familias.
+
+BEELIVERY#Chile#B455F404259FC5B86AC3DB7B26AC3BAF#https://www.youtube.com/watch?v=NebXegaqQtM#46#Ser la plataforma de logística de última milla líder para los mercados: Food Delivery, E-commerce, Retail, Local Business.
+
+SMARTCALLING#Reino Unido#AC4B155B7E3221D60E73287CAC4626FB#https://www.youtube.com/channel/UC4YAFHsGQoAb0fBAazdB-0Q#40#Our client's customers have busy lives... We say 'Don't CHASE them. FACE them.' Our call centre tech was built with the customer in mind.
+FULLMUSCULO#Chile#DE4EE217F31A4E515837F83881D5D48A##26#Un entrenador, un nutricionista y un compañero de entrenamiento directamente en tu bolsillo las 24 horas, los 7 días de la semana
+MOKMOK#España#A8F05369ECDFDB07B9726FC40BA260E8#https://www.youtube.com/watch?v=pqKSxfWk9xg#29#MokMok pone en contacto a conductores y pasajeros para compartir sus trayectos cotidianos en coche que se repiten cada día.
+SIMULADORES DE ENTRENAMIENTO#Chile#91CFD373ECFBCA645F7EB8F925724265##94#Queremos revolucionar la forma de enseñar, usando tecnologías de punta para crear videojuegos formativos.
+AIN#Bangladesh#E819957A4460DC9C1FF5791C6D79D70E#https://www.youtube.com/watch?v=kMROgqNMjNQ#29#Offering simple and powerful intelligent vision enabled hardware and software to convert unseen activity into useful data.
+WAZHY#España#760E30D5DC7D647D6A56E44184B9500F##29#Wazhy es una app fintech para pago y fidelización de clientes mediante smartwatch y móvil.
+
+%Linea sin informacion
+ACERCATE#Perú#EA2247653660F8135483E400A549BB05##117#Red Social de eventos, conectate, comparte con tus amigos y opina sobre los eventos a los que asististes
+
+
+AU PETIT SORBET#Colombia#3F12D41993FCAAC0A77E726FA531152C##39#Refresh your pet healthily.   100% natural products. Help prevent diseases such as cancer or heart ailments,
+%Linea sin informacion
+
+TREITUS#México#395FF5D78C98A913B949DFE0607845CA##120#Treitus es un sistema web que permite a emprendedores y PyMES solicitar la manufactura de un producto en la maquinaria de otras empresas.
+
+BROADBRIDGE NETWORKS#Reino Unido#D13A70F281561A6CDB02EF4553E64DE2#https://vimeo.com/184647663/4d3b1fa055#88#SDN Applications that allow any Enterprise to create a cloud infrastructure. on-demand and ready for IoT and Analytics
+VITRINIA#Argentina#BC51C8F7724F69185029CC2EF69EB639##29#La forma inteligente de salir de compras. Red social de vidrieras online.
+
+MONUMENTIA#España#7B04E27B6D198E6F2C5F945E8404760E##39#Plataforma de apadrinamiento de monumentos mediante fotografías esféricas donde un cicerone irá explicando características, curiosidades.etc
+KOIIK#Venezuela#E31C549F8513BE3A17166F97A2F778A8##60#Escucha lo que deseas! Koiik convierte youtube en una rocola en la que los usuarios en una misma red seleccionan lo que desean escuchar.
+GEO PACK#Argentina#146CAED15CC8BF2ED839FD238160500B##41#To optimize the service of urban logistics in cities through a software that connects pickers and users nearby, reducing costs and delays.
+MOPRIM#Finlandia#B572CE1E59D6DAF58CF121B21A82B086#https://vimeo.com/187158168#29#Motion Sensing Company - offering software products for accurate and meaningful use of motion sensor information.
+
+MISS LIVINGSTONE#España#98E75967A4BBC26D1522C3DABB29699E##168#Conectamos a viajeras con mujeres locales promoviendo la colaboración social, obteniendo un impacto positivo en el destino elegido.
+RUF#Argentina#824A8757B3F73CFA497165021E88DAA1#https://www.youtube.com/watch?v=MensSTcPBP0#22#We are a company that motivates the innovation, growth and security of our Customers and their environment through robotics and automation.
+%Linea sin informacion
+MELVIN AI#Colombia#D4B29B6CC8A6F861A4D6927BB9B3B61A#https://youtu.be/QVhJGiuazTg#225#Democratizar el comercio electronico, eliminar la brecha digital de entre mas del 90% de las pymes de LATAM y las personas
+KOPYK#Andorra#B55D6289E507154C49CE61AFF9FD9BCC##32#Kopyk es una app que permite compartir fotos geolocalizadas en álbumes repartidos por todo el mundo y votar por las mejores de cada lugar.
+CONVEY#España#64DC50E95226D45E18F104E22D5099A6##20#Convey se creó con la finalidad de hacer más eficiente el transporte de mercancías por carretera.
+SNUUBE OFFERTS GAMES#República Dominicana#161CC14017B08114FD55C7500C843B15##41#Arcercar marcas, bienes y servicios a sus usuarios de forma sencilla, divertida e interactiva. El marketing lúdico al servicio de la emoción
+%Linea sin informacion
+COOKEATHOME#España#1782CBA272A7E3BD4108BE932BEED242#https://youtu.be/mhRGF_X5YI0#109#Pone en contacto a Chefs profesionales y Amateurs de la cocina, con personas que desean llevar a cabo una experiencia gastronómica diferente
+CONECTATE SOLUCIONES Y APLICACIONES#España#EF5B53AACD5C875E9FF353BBBC5FA539##272#Nace para desarrollar el proyecto Don@te. La sangre es un bien insustituible: Don@te unifica los carnets de donante y potencia la promoción
+
+NABÜ#Costa Rica#84DB635A7028E565F59979C2150F5E81##148#Democratizar el comercio digital en las PYMES de LATAM a través de algoritmos de geolocalización de productos/servicios y sus usuarios??
+
+LEGAL ROBOT, INC.#Estados Unidos#3A11720B6E7FFE685ED7CCA3E5A027C3##26#Legal Robot uses Artificial Intelligence to understand legal language and reduce friction by automating legal processes. Humans+AI > Humans
+%Linea sin informacion
+
+COMUDEV#Colombia#074F0836D05A1CE9345AF873375AC349##22#Enlazar desarrolladores alrededor del mundo, lograr transformar el aprendizaje en proyectos magníficos, queremos que explotes tu potencial.
+
+HOLLYSHOES#Perú#41582A4850CDFF396EB14FEE5B5D360B##53#HollyShoes es la primera marca tecnológica de zapatos que te permitirá cambiar el color de tus zapatos con una aplicación en el celular.
+
+LOMERECE · SEMBRANDO LEYENDAS#Perú#CE474F507E657F1641C461414E24C5AF##41#Evitar que se siga perdiendo el talento deportivo en el Perú y el mundo.
+AGROBOX#Argentina#22FC5BC6633DA05F00F98216EE8A83E7##367#Personas y tecnología del agro trabajando en equipo
+LAWYER-UP#España#7D56BEF564CC368B9085D85A93374E99##22#APP for search lawyers or attorneys in any place where the people will be, althought they could have traveled. APP para buscar abogados.
+RED STRING SPAIN#España#53C650645FD8B92FC3D4BBD7E0E2EC48#https://www.youtube.com/watch?v=yEMBGaimgCs#40#La web con personas y sitios interesantes que aún tienes que conocer; Conecta con gente como tú a través de experiencias en el mundo real
+
+
+LAMANICURISTA#Colombia#8625E2FC2319B24462005814AB40717A##407#LaManicurista, aplicación móvil que conecta manicuristas y clientes, prestando servicios de manicure y pedicure a domicilio de inmediato
+
+3DOG1#Colombia#4015EDF6E2E00655989070005736027A#https://vimeo.com/196595741#69#Consultas veterinarias. Médicos veterinarios on line
+
+%Linea sin informacion
+DIU ESPACIOS INTELIGENTES#Colombia#1674EDF45780FD478349573077339C28##26#DIU crea e integra tecnología que se adapta al estilo de vida de las personas para hacer su día a día más fácil e inteligente.
+CARCOOL#Perú#745810ADA7E2419D48E8D7693BC0733F##105#Queremos hacer más eficiente el transporte interurbano haciendo que sea sostenible de forma tanto económica como ecológica.
+IMAYIC#Perú#F2A1D75F8DE7D9A3A9ECED75AF92FD95#https://www.youtube.com/watch?v=41Tfrgo_5sw#16#En IMAYIC podrás vivir experiencias soñadas con tus artistas y famosos preferidos, ayudando a causas sociales,
+GUARDIANKIDS#Colombia#D0BE0C279AAD092F55047C9ED485D202##91#Prevenir el consumo de pornografía por parte de menores de edad mediante el reporte a padres o adultos responsables.
+
+%Linea sin informacion
+BACHO Y CHUCHO, 'BISNES' EN SERIO#México#3AB4ABC20CE2BCD12582175D447CBB5E##15#Empoderar a H y M de todas las edades con espíritu emprendedor, discutiendo en nuestros canales temas de negocios de modo divertido.
+
+TWO GOOD NEIGHBORS (2GN)#España#C02E5060F6D613677B00E8FE4230F36C##63#Somos la app que conecta personas: ofrece y realiza trabajos en tu vecindario, crea, gana, compra, vende; descubre todo lo que puedes hacer!
+
+24X7FOTOACTIVIDAD#Venezuela#F2834728B0ABC8A2F45254A237D297AF##113#Usamos las tecnologías de avanzada para la comercialización de la produción fotográfica y audiovisual.
+
+
+THE FOOD MARKET#Argentina#4EE841136CF52CA0D42953AF87D94B95##19#Acercar al productor al consumidor, brindándole a éste alimentos de mayor calidad a un precio más accesible. Fomentar a los mercados locales
+
+CLIENTISSIMO#España#3B35200F55C5A4C9E5F62447E28879CC##124#CLIENTISSIMO es la app que ayuda al cliente de la tienda online. Todas tus compras online, pedidos y ofertas ordenadas en una única app.
+HYDROPONIC HOME SYSTEM#Costa Rica#EEB7290AFA80B2E3000ADE61135313D5##102#Huertas hidroponicas automatizadas para producir vegetales frescos, sin pesticidas desde tu casa, oficina, hotel o restaurante.
+
+TWENIX#España#DF150271414CE682A217811B1C65863E##122#Twenix es una plataforma que ayuda a las personas a mejorar la fluidez en inglés mediante conversaciones online de 26' al día.
+
+POBUCA#Grecia#14C1F9EC592F6DCB1AEF03A263B8CFF5#https://www.youtube.com/watch?v=YSDwBM0I6x0#43#Pobuca is a cloud SaaS that lets you share contact information with co-workers and have access from any device: desktop or mobile.
+I2CS MOBILE#Sri Lanka#92A461B069D7F9B7DE47048DFB11C189##18#Build Awesome E-Commerce Shopping Cart Mobile Apps for Your Customers!
+EASY CARD#Colombia#67A0CDA378BC7FC7ACE01FB061ABDB1D##1437#Sistema de fidelización de clientes basado en la ciencia y la tecnología para conectar empresas y usuarios.
+
+SOCIAL FOR ALL#Argentina#F93B027F3320425FA981202F2C9E4BDC##21#Social For ALL es la Nueva Red Social que Une a los Gamers con los Desarrolladores de Juegos de una Forma Innovadora en el Mundo
+
+GENTO#Perú#9B364ECDE8BB8B418B1E6512C7D6F2B3##258#El primer eCommerce inteligente diseñado para que cualquier persona pueda verse y vestir como quiere, sin ninguna limitación.
+
+WONOMA#Argentina#82ADC23189B0C8611BC73EBBE7F5DB3D#https://www.youtube.com/watch?v=YsWnrQ3OGyo#14#Ser el UBER de los salones de belleza en LATAM
+%Linea sin informacion
+TPI TRANSPORTE PÚBLICO INTELIGENTE#Perú#50CFEC950462C1927C29264E288EFD43##355#Brindar una solución de transporte público inteligente a través de una nueva experiencia para empresarios, operadores y pasajeros
+
+DEDOCAR#España#D4694D6D6994BDABC0AAC7537EECFDE3##21#La app de autostop que aprovecha los asientos libres de los coches, para que ahorres tiempo, dinero y contaminación al moverte por la ciudad
+%Linea sin informacion
+DEPTOLIBRE#Argentina#5274FCE9AF2A68D963611AF1EC9450D7##26#Con Deptolibre el alquiler es temporal pero el servicio a turistas y propietarios es profesional. Checkin - Laundry - Administración
+TECNOPLUG#Venezuela#05F49D2096BA590CF5F94B0F95D096C7##17#Nuestra misión es ofrecer productos y servicios que ayuden a las empresas a fortalecer su fuerza de ventas con sistemas de vanguardia.
+RENTYN#España#A6B98A77033FDA2B0FAE71A455C111CA##18#Ahorra tiempo y dinero alquilando maquinaria en rentyn para la #Construcción y #Industria #AlquilerMaquinariaOnline www.rentyn.com ¡Votanos!
+V1N#Venezuela#4959D289F9E03245E1DE2418E17DCFC3##113#V1n es noticia de todo el panorama mundial en una App donde el usuario es certificado y validado para darle veracidad a la información.
+
+
+ALMA#España#7825EFEDA4E3C58C14EA1CC63859937C##66#Luchamos contra la Violencia de Género que desarrolla un dispositivo camuflado de auxilio para mujeres que sufren maltrato
+%Linea sin informacion
+GLOW SKY NETWORKS#Colombia#3D190F4DD2E9758819687C40AC6EC263##20#El canal GLOW SKY YOUNG busca ser el canal mas importante a nivel juvenil de latinoamérica. Tu Mundo, Tu Historia!
+TESTABOOK#Perú#C59B32DD0342624A03A44DE2AF5701C3##146#Ser la herramienta mas importante de cada persona, en la cual podrás dejar información importante y sentimientos. Entregandose en un momento
+
+IMAGEEN, RELIVING HISTORY#España#10E8029F54969BB77895F23F726EC830##393#IMAGEEN tiene como misión recrear el pasado, tal y como era, en el propio lugar donde hoy sobreviven sus ruinas, usando nuevas tecnologías.
+
+
+
+MIRANDA LIFESTYLE#Perú#BC281B0AF755462593C971189ECD05E2##13#Una forma entretenida de descubrir y reservar servicios en Centros de Belleza para verte y sentirte bien cuando estés aburrida de lo usual.
+
+WWW.AMISTADESYAMOR.COM#Venezuela#877E4BFF89FEDD78D5A8ACF559E8C685##124#Brindar soporte para el desarrollo personal, que las personas se conozcan establezcan relaciones de amistad y/o amor, terapias psicológicas,
+FIBONACCI POWER#España#DD7AD5482D2C56E7A296E3330AA744CE##11#Cobrar por vivir, que burradas dicen... Seamos burros pues!
+
+ZIVAPLUS#Argentina#BFECD96CA4281147BE875671E162D6F7##54#Motivamos a las personas para que hagan actividad física y logren sus objetivos de manera simple, fácil y segura.
+
+
+%Linea sin informacion
+PERFORMLEAD#España#18EC393738FE53E06F707F8F17E3F1F3##22#Gestor de campañas online con formularios - lead manager, centrado en convertir tus prospectos en ventas usando tu propio embudo de ventas
+SCHOOLMARS#España#BF5AA5E3E3C6B96EEFA8477185CD62C5##6759#SchoolMars is the global Tripadvisor for schools with a unique system to "grade" them.
+AHORADOCTOR#Argentina#40465D92FB1ECC85E268313659F22115##123#Permite a pacientes realizar consultas con profesionales de la salud a través de una videoconferencia de manera segura, cómoda y económica.
+BYM ART#Venezuela#F6258E955A0C0C590DC6E5CF3FE5628B##65#Ser una de las compañías de diseño gráfico mejores reconocidas a nivel mundial, por nuestra calidad y buen trato con nuestros clientes.
+
+SCEENIC#Reino Unido#3F5FCB7FE57CE802F658A5CE35C866C0#https://www.youtube.com/watch?v=5iR3mWUOMcA#50#Watch Together: Revolutionizing The Way People Watch Content Together
+
+PROYECTO SERPENTHYS#Colombia#0CBC34505E3F97C2838BE7F424880058##31#TRANSFORMANDO,DONDE OTROS NO HAN PODIDO.....SI ES DIVERTIDO...ES SUSTENTABLE
+
+
+
+BÁILALO CLUB#Colombia#A8BADC1D8E9040D07E97BB1F6C33821A##15#Somos la primera plataforma en el mundo entero que brinda la opción de enseñar a bailar a través de la web. Persona a persona, divertido.
+
+AVI ASISTENTE DE VISION#Guatemala#B881BFEF2055E2B95841F47248E53CDD##16#AVI es una app que sirve como asistente virtual para personas con problemas de visión/ceguera. Reconoce comandos de voz, imagenes, personas
+AVEEZA#Chile#78144475FDF8199EEEEE599E28E59667#https://www.youtube.com/watch?v=Jkf1mwtWjy8#24#Improving School Transportation Through Innovation
+
+COMODÍN UNIVERSITARIO#España#FD62B8316C4B4BE9ED211862B197E205##12#Solucionar cualquier problema de cualquier universitario que nos envíe el enunciado de su carrera técnica, Arquitectura, Ingeniería ,etc...
+PRINTGREEN3D#Brasil#6FA8A9C302D35FBEDA43E697B839A7BA#https://www.youtube.com/watch?v=xB4BNvIRB2g#71#Desenvolvemos filamentos recicláveis com alta qualidade e tecnologia, para auxiliar em seus projetos e o meio ambiente.
+WILLOWI#España#33DAE9B64BA6E0B1E85AA1E56D37A922##106#Somos una plataforma que crea grupos de confianza y ayuda a los usuarios dando transparencia, ahorro y beneficio en sus seguros.
+NEURONITA#España#F330CF26FF77D85AA8FD4E0CCD64E5BC##30#Vamos a dar herramientas a los centros de Educación Infantil para que los niños tengan mayor desarrollo intelectual en la etapa 0-3 años.
+
+YOVEOVEO#Ecuador#F4E36793A5A01A1AABF9AD7D43F292AE##111#Poner las necesidades de servicios básicos de los ciudadanos mas cerca de su gobierno local.
+
+NEWSLINN NETWORK#Irlanda#BCDBF7C753383BD0B7429E2592492372##17#Build apps that connect citizens and organisations with journalists and help communities discover and follow verified journalists.
+
+GPRESTAMOS#Colombia#B4895FC85BE0C5108DABAA24CD54043D#https://www.gprestamos.com#50#Plataforma Online de alta disponibilidad para la gestión de créditos a corto, mediano y largo plazo. Bolsa nacional de préstamos.
+
+
+BABY2BODY#Reino Unido#2BA8C87507F5BB2A148A61A0C2AE1842##11#
+%Linea sin informacion
+UNESPAIN#España#6926DB65436D525B13433C6F6BBE158D#https://www.youtube.com/watch?v=ObpeyfYa5P4#85#UNESPAIN es el marketplace B2B lider para hacer negocios, solicitar servicios y presupuestos con principal foco en España y Latinoamerica
+
+
+PACKMOVER#México#D111A7DD48EF70FA868CDC8D9460938C##14#Buscamos reducir los tiempos que toma realizar envíos de mensajería y paquetería por medio de la acción colectiva a solo horas
+
+SMARTWAVE#España#1571B4FAB69796AD841AD63071E6D29B##11#La misión de SmartWave es de ayudar las PIMES a digital izarse y diferenciarse de la competición con una aplicación móvil y con pocos costes
+IOCASE#Nicaragua#1FBC48D5C31D462231B03EC9588658A0#http://www.trade.gov.tw/Pages/detail.aspx?nodeID=45&pid=537140&did=84490#128#World’s First Smart-Case for Smartphones.
+%Linea sin informacion
+
+ENERCRAFT#Argentina#258B010E5A133C56E568243E91026154##89#Hacemos que las aeronaves vuelen seguras y su operación y mantenimiento sea más simple.
+CASHBACK AGENCY#España#D2823950DA02E833AB2611B4435CAEDD##98#La primera Agencia Internacional de Cashback Inmobiliario. Comprar inmuebles de todo el mundo, recuperando una buena parte de tu inversión.
+
+ROMBUS GLOBAL#España#E5F25C6DE4E5E7C35364CBF3A4388047##22#Primera Agencia Global de Comunicación de gestión abierta y gratuita para profesionales independientes y empresas de todo el Mundo.
+
+ONBOARD MOBILITY#Brasil#C525CF36520BF265C3A6ACF3D472C3B9##2162#OnBoard é um meio de pagamento exclusivo para o transporte público capaz de integrar, em escala mundial, o transporte urbano de passageiro
+
+CARCODEAL#Reino Unido#0B7042C3FDEDE13CCDBAB97983FB6DBB##21#Carcodeal.com is an aggregate platform for selling vehicles online, instantly
+
+DONCOMBO#Perú#8C0F799850203B0FEA0544B4F1C28683##26#Darle la facilidad al consumidor de hacer su pedido de comida rápida desde donde esté, sin hacer colas para pagar, a su orden con DonCombo!
+ABALMON#España#DD6BCC7E190EFEA303E4ADE99EB55B2C##24#Ofrecer las mejores herramientas de gestión de rutas y localización a empresas con flotas de vehículos.
+GOLDENTALENT APP#España#C4027AC8A35FA6F0C91DE372B64B6114##22#Hacemos visibles los nuevos talentos deportivos. A través de nuestra App puedes dar a conocer al mundo entero tus habilidades futbolísticas
+AGRICLAP#España#07AF6264CA4DAF448C53282F255505F9##40##EconomíaCircular y #Bioeconomia. Ayudamos a la Cadena alimentaria a gestionar sus #excedentes agrícolas a otras alternativas. #HambreCero
+
+FOOKING#Brasil#B67CE366D95A6FA64CB1347C73C266C8##130#A maneira mais fácil de ir ao motel!
+
+ADMETSYS ARTIFICIAL PANCREAS FOR AUTOMATED DIABETIC CONTROL#Estados Unidos#36D2458EA289D03569C41F9D55C5448A#http://vimeo.com/152978263#17#Admetsys has developed the first fully-automated blood glucose control system (i.e. artificial pancreas) for hospital care.
+
+SUPERFLETES#Venezuela#2EE79DFA7E75D371A27DF6127DB32597##61#The Uber of goods transportation, anything, anywhere, anytime.
+%Linea sin informacion
+VARSITE SCHOOL#Venezuela#876AD61E684889FFE2B54E6441DA7283##132#Educar al planeta en temas importantes para lograr un mundo sostenible y promover cambios positivos globales usando la tecnología.
+PICPIIC#España#2E530C8FC9EFD903AA4B34A7A8BB2DE5#https://www.youtube.com/watch?v=yRIDxfDPbiA#129#Connect your photos with your friend´s and create amazing stories with Picpiic!
+IMECHANIC#Reino Unido#1C6A87DB8FABDF8EC1ABA5576C454A4F##65#To harness the knowledge of mechanics across the globe
+%Linea sin informacion
+MIWUKI#España#5383348C791CAE2FB3C4E42506E957DC#https://www.youtube.com/watch?v=t6WWRvzYT_o&t=7s#15#Nuestra misión es la mejora de la vida de las mascotas, desde la búsqueda de hogar hasta la mejora de sus cuidados.
+
+PORTALFIESTAS.COM#España#1198AE1DCC102D5A5A19ABE0DD2CDFC0##86#El mejor buscador de fiestas populares y eventos de interés turístico de pueblos y ciudades de España.
+
+TICKEY#Bulgaria#7C8A9963D213CFF8EC9ABEF9B6D10EF7##10#To allow all passengers to use urban mobility anytime and anywhere with just one app.
+
+COBWEB IO#Sri Lanka#C818ABE818FE16E39868B3FC4C7EAEB7#https://youtu.be/BaTzxdIRZys#383#A Social Network for Internet of Things
+APPARCAMOS#España#11D1F2F108E7030D10E56473942ACE5C##52#Share private garage spots per hours. An Airbnb for parkings
+%Linea sin informacion
+
+TEKI CONTROL#Argentina#DD66EFF8EA0147664C8D385781C72CE9##12#Conectar las cosas con los procesos para obtener información relevante, que permita aumentar la productividad de las empresas.
+
+
+SENTRYCOM#Israel#40AF1B23E8A3F9B71B884D2DBEC9B39F#http://www.slideshare.net/secret/3nbYFoy74itK1I#10#SentryCom develops Multi-Factor Identification-as-a-Service for Mobile and Web applications ,instead of username/password. Secure & Friendly
+AWEHDR#Italia#9688B0F8B3CD8D73978121AAEDCA10DB##10#AweHDR introduces HDR videos for the web, without using browser plugins.
+
+
+IADMOOV PUBLICIDAD S.L#España#C812C4BF07210853A634FA85482C9E1B##351#PubliTaxiBarcelona es la primera agencia de comunicación especializada en la comercialización de publicidad digital y beacon en los taxis.
+IMMERSIVE REHAB#Reino Unido#710743D0A50F153D983356337C1088D7##9#Immersive Rehab creates and develops interactive environments and games in virtual reality to improve the effectiveness of physical rehab.
+MOGGIE#España#4EDB7CF265259500C18F731BCA972CD6##9#To equip the cat owners with technology and tools necessary to provide better care for their cats.
+ATEXTO#España#400FE6969792859BF916E8F814E58AE8##281#Atexto provides human transcription services for companies that needs to improve their automatic speech recognition softwares
+
+GETLAVADO#Perú#16F2FED57A9A90AF84AE182F54C4BE17##60#Plataforma On-demand para la ropa sucia
+
+ARTIPLACE#Perú#6349E5FE9EB9AEB4A743539EC318618E##46#Conecta a los creativos con oportunidades que los ayuden a crecer profesionalmente y al mismo tiempo puedan ofrecer sus servicios creativos
+
+I CONNECTED#México#A33670EC92E931F6F5AC85FCA3A6C4B8##179#Brindar información de cursos de idiomas ofertados por diferentes instituciones a los usuarios de la plataforma.
+
+
+RUN RUN#Venezuela#8C439A587C4F6A0173C576196FF0B1BF##37#Aprende de tu vehículo, encuentra piezas y repuestos de forma rápida según tu localización, califica y opina junto a otros usuarios.
+%Linea sin informacion
+UHANBO#España#A2842722D62597071FCAF4B185C66B7E##32#Conoce lugares con gente que comparte tus mismos intereses. Contacta con gente real de forma inmediata
+VIAJARIS#España#D45F39C2DAD738EDA3057C3BFF4F78C2##123#Búsqueda inteligente de viajes, a partir de un presupuesto y creación de paquetes dinámicos multiservicio en tiempo real.
+
+STEREOTHEQUE#Estados Unidos#13EEA7908AD5DFD911D1E8F718D68B06##59#Una plataforma para Hispanos donde pueden descubrir musica y contenido basandose en inteligencia artificial y locacion.
+FLORAME#Brasil#E2B71C88D13BE32496E6C2C25CDF9213##214#O FloraMe utiliza-se da compra por simulação para atrair clientes para seu marketplace de plantas ornamentais.
+%Linea sin informacion
+RUMBO A TOKIO#España#E443AFC47EA5BFEA75C054A99E93D25E#https://m.facebook.com/story.php?story_fbid=744999842321091&id=733030463518029#284#Poner en contacto a deportistas que puedan participar en los JJOO de Tokio y PYMES
+%Linea sin informacion
+
+VIWI#Estados Unidos#A501F128FAB157CFFC6999F1BCC46662#https://vimeo.com/185429283#99#Linkedin + Youtube. Viwi permite a las personas crear un potenciado y creativo video-resumé que les permite conseguir empleo efectivamente
+
+
+EATOPY/FOODVIVORS#España#41C99A9D38A9D5FE34C043C48FC1111E##48#El tener una alergia o intolerancia alimentaria no te limite tu día a día y puedas comer tranquilamente dentro y fuera de casa
+WORKFORZ#Uruguay#8CD7EB5692A3BE6CAC9729229CE5EEDC##33#Plataforma on-demand de servicios freelance que brinda soporte a empresas de manera rápida y a una fracción del costo de agencias.
+SHOWLEAP#España#97A80401D0AC431BA2DE0F2BAFB9F3A6##60#Romper con las barreras de comunicación a las que se enfrentan las personas sordas en todo el mundo
+CREEM#España#587210EE1481EA73EB804FF7D839BAC6#https://www.youtube.com/watch?v=PDqKGuv_t1U&t=420s#106#Que los niños se expresen jugando y mejoren su bienestar emocional es nuestro objetivo. App de diagnóstico y monitorización emocional.
+LAST PEANUT#España#D774466CB7CDA9D302A91B584AE86E83#https://marvelapp.com/17c40d5/screen/13475470#156#Last Peanut is the unique opportunity to dine in the most exclusive restaurants in the world
+KRONOSOCIAL#Venezuela#4F6AE30CFF3EAF62E3C45E2B9CA0FF6D##4900#Hacerle el trabajo más placentero a todos los community managers o profesionales del marketing digital.
+ONESITE#España#CE25501738AF3AB792CD2A516A53277B##83#OneSite es la primera Plataforma completa que te permite tener una página web de forma gratuita.
+
+MY TIENDA#Colombia#C5585A2D3D995CE5CF7CFB62B15DB0B9#https://www.youtube.com/watch?v=HWFueC7-DLA&feature=em-share_video_user#206#buscamos la competitividad en los negocios, aumentar las ventas a domicilio y hacer mucho más eficiente la logística en las ventas.
+
+TELECAPP#Venezuela#E28245A9EDB245A499D7379EECEBC09E##126#Crear soluciones de negocio virtualizadas que incluyen sitios web adaptativas, estrategias de marketing online, analítica web y e-learning.
+%Linea sin informacion
+VIABLE#Portugal#D91AACE7D1A068589BBD852AD8B13DA5##293#Optimizing the investor's deal-flow by automatizing the end to end process of discovering, evaluating and capturing the right startups
+
+WALLEVENTS#España#0794B5DDB966EF7C6761208D515C6EE6#https://www.youtube.com/watch?v=MWvDM-xwaAM#74#WallEvents impulsa y difunde información de experiencias culturales a nuestra comunidad.
+
+JUEGOS EMPRESAS#España#9BD64499AA0183C0A36ED2874896BDC1##212#ACOMPAÑAR A LAS PERSONAS Y A LAS EMPRESAS EN UN MUNDO DE RETOS.
+GRAMMAZZLE#España#F6CF8210794C2DC4AABDB8CCA4F0F64B##119#Material didáctico que facilita el aprendizaje de la gramática y la fonética inglesa empleando puzles gramaticales discriminatorios.
+RYTMUS#España#70C1A8B4E46B33FF3D3553500038A458#https://youtu.be/Kpqr-HdxDzo#320#All NIghtlife around you inside your mobile phone. Search, Choose, Enjoy!
+MN#Venezuela#370D9BAAA6A7A11BE7250D66884D46E4##67#MN es una app diseñada para que jóvenes y adultos con alguna discapacidad o limitación, puedan encontrar de forma divertida su Media-Naranja
+
+VALEET#España#DF484EB96886BC8E19E1CD643E328342#https://vimeo.com/195637404#115#On-Demand valet parking & car services
+JUST IN TIME#España#F0D08D43D0411A3103D5558BA190E860##369#Acude a las citas de tu dentista, peluquero... sin esperar, sin colas y sin colapsar salas de espera. Llega JUSTO A TIEMPO, #justintimeapp.
+TOCKET#Perú#1DAFAC4ED2E0970525CD4C27D07F116F##60#La manera más rápida y segura de comprar entradas para todo tipo de eventos y desde tu teléfono. Suena imposible? Hagámoslo posible!
+METROPASS#Perú#F707CB86C02E9830A3A626B58CC1CFDD#https://www.youtube.com/watch?v=JXUq5cBkbDE#239#METROPASS es una aplicación de servicio de recarga virtual de tarjetas prepago del sistema de transporte publico (Tren eléctrico - metros)
+
+DROONLY#España#E5B120E7513DF1E8A19C1D5BC27BC568##59#Droonly es la primera plataforma que proporciona la forma más sencilla de grabar tus sueños y proyecto aéreos con los mejores profesionales!
+KUKI PET#Brasil#6B00B2997BCE92CB02B3A956BDC01D38##43#We want to be the leading pet platform worldwide. Connecting all animal lovers around the world in one place
+EMPRENDOPOLIS#Colombia#D727DDD5F1CEA57F0EF4F82E6E04A51F##57#Romper los modelos de educación tradicional a través del fomento del Emprendimiento y la Innovación Escolar.
+
+RAYVOLT#España#9B9640183E306B085230006D012D186A##103#Rayvolt es un nuevo concepto de movilidad sostenible donde se fusionan a la perfección tecnologia y diseño vanguardista. JoinTheRayvoltuion
+
+DOADOR ONLINE :)#Brasil#9E5D58A9DB950F0B878043AC92625885##5920#Plataforma Virtual de Doação de Sangue, Plasma e Plaqueta. VOCÊ encontra doadores em 5 minutos, além de ter tudo que VOCÊ precisa para doar.
+POPPY VIAJES#España#6F6A8005ED82C8D3B9DF5B4E0E139F23##184#La primera red social con la que vivirás una experiencia diferente viajando a cualquier festival de manera ágil y conociendo gente nueva.
+
+INFOMIX#España#7E44006E2C8B51046ABAD501A3D20A7D#https://vimeo.com/146116312#561#Cantera, escaparate y trampolín para el talento joven audiovisual (principalmente universitario) para que salgan mejor preparados al mercado
+
+PREIS CORP#Venezuela#F934C60E13EB41A17984E6520DA7AD6A##157#Acompañamiento, experiencia y éxito reunidos en una plataforma que ofrece formación y desarrollo a emprendedores. Crecemos juntos!
+SNA#España#3C114E9A534020099DC1B7B5DA27C717##44#¡CREAMOS MOVIMIENTO!
+
+
+5ANALYTICS#Alemania#CA921ECD509F790C06BE8903AEF9AC63##28#Servicios para empresas con respecto a la integración de Inteligencia Artificial y analítica en tiempo real en sus procesos de negocio
+
+%Linea sin informacion
+AMIGO CONSTRUCTOR#Ecuador#9F4A1EE271F3498A383CB7A2081E9FCF#http://amigoconstructor.com/#1090#¿Necesitas albañiles, arquitectos, materiales, maquinaria para construir... y no sabes dónde encontrarlos? Amigo Constructor es la solución.
+SION CERTIFICATIONS#España#7C1DC81C09EA0F3FA1CA208F01E646ED##54#SION CERTIFICATIONS es una StartUp especializada en servicios de Auditorías, Consultorías y Certificaciones en CiberSeguridad.
+MEDIAMERSE#Chile#8D669B744EDC8A309D5F5A67B6925808##1463#Conectamos a las marcas con las audiencias a través de videos de 360°, embebiendo anuncios en ellos, aumentamos la visibilidad y engagement.
+CITY WIFI#México#78F13A6D25F1CFCD1149C022F0B08453##171#Wifi Inteligente para negocios y eventos. Comparte internet y comunícate con tus clientes, recaba bases de datos e insights en tiempo real
+WHODEFY#España#6168AA986E3FB0001A552790B049C6AB##171#Ponemos en contacto a gente con las mismas aficiones para compartir planes y sus gastos de una manera más personal, social, barata y rápida.
+
+
+SPHEMORY#España#CA4C8607BEF915A8605145022121E7F4##257#Sphemory es la esfera de tu vida. Conserva y protege tu esencia en el pasado, el presente y el futuro.
+%Linea sin informacion
+FIDIAGRO#Colombia#3017C0573983D515B9FEBB1F41CCE292##42#Dinamizar el desarrollo del sector agropecuario Colombiano ,Mediante la plataforma de financiamiento colectivo (crowdfunding) FiDiAgro
+BICICLA#Chile#DE9BAD8E27044D8373792C1304E46FEB#https://vimeo.com/166376008#3659#Hacer del reciclaje algo tan fácil, que todo el mundo lo pueda hacer con un sólo clic desde su celular! Bicicla, la revolución del reciclaje
+EXP FEST#Venezuela#C44A9C872E1854FB035A9869A5CE7D68#https://www.youtube.com/watch?v=zIq5hWa2cqE#78#Create a paradigm changing way of doing e-sports events. Taking video game events to the next level.
+
+VENDIENDO.CO#Colombia#CD380E3426EA6CC156744F4AA80F73BA##33#Transforma tu pequeño negocio en una naciente empresa. Organiza tu negocio en línea, aumenta tus ventas y ganancias con Vendiendo.co.
+T LO LLEVO#Perú#9D0E91CAE05B55E7578C9F1939A2E0CA##37#Dar una solución inmediata y fácil a un problema de la vida diaria de las personas de forma segura ,utilizando un aplicativo del celular
+FUNDACIÓN CENTRO DE ENTRENAMIENTO EN ENERGÍAS RENOVABLES FUNCENER#Colombia#EF15BA1980EA4557755706C8D978F25C##534#Educar a la comunidad en temas de desarrollo sostenible (virtual): energías renovables, agricultura orgánica, bioconstrucción y ecopedagogía
+URBAMAPP#Ecuador#39CEBDBE4A23DB14DF1AD9AA7CB56EFB#https://www.youtube.com/watch?v=CTuhvAjcj4U#241#Comparte las mejores experiencias de tu barrio y ciudad con la comunidad Urbamapp y descubre aventuras que están a la vuelta de la esquina.
+MPF#Venezuela#FC2363701E210C6EFE529766E560A323##60#Crear personas más conscientes hacia el medio ambiente, del mismo modo que ayudamos a impulsar el desarrollo sostenible y sustentable.
+MASTERDREZ#Venezuela#F558E53D19A845A6B5C3771D38B2D87A#https://youtu.be/qQHyysAdVmU#86#Promover el uso de juegos mentales que ayuden a desarrollar habilidades intelectuales para la resolución de actividades en la vida diaria.
+PROFESIONALESAQUI.COM#Venezuela#86D67BACFED4C7313D2137DC28573025#https://youtu.be/YGt3b5G7vA0#91#Brindar a emprendedores y freelancers de America Latina un espacio donde promover sus servicios, hacer networking y formarse para crecer
+ESACCESIBLE APP#España#F14FA60DC90195DB9A8CE69C8D6C8C3C##200#Valora la accesibilidad física de los lugares. Puedes encontrar y compartir bares, restaurantes, hoteles, aparcamientos...
+CITYWALLET#Venezuela#45EF2977DDFF49C4887EAA95CC5EEF63##1206#Desde tu app o con una calcomanía inteligente, paga los servicios que usualmente requieren efectivo ¡Pagos diarios sin colas y sin efectivo!
+
+%Linea sin informacion
+AGROSCAN AGRICULTURA DE PRECISIÓN#Ecuador#563C089ECE8F98F274D0D178FC62B8ED#https://www.youtube.com/watch?v=4dm_eEZ5PFk&feature=youtu.be#561#Generar y gestionar datos del estado de cultivos mediante el análisis de imágenes multiespectrales tomadas por cámaras montadas en drones.
+GS GOOD SERVICE#España#A2C5D811193555A164BB2C65C539F284#https://www.youtube.com/watch?v=fU50mbnAztA#66#Recompensamos la labor de l@s camarer@s de tu ciudad con propinas. Valora, participa y comenta como cliente, y obtén premios.
+
+%Linea sin informacion
+WITMOS#Argentina#9C884BD08AE2040766F4F81E20707A47##4037#Implementa una infraestructura desde la que se desarrollan dispositivos y servicios típicos de una SmartCity.
+ENCUENTRAHOY.COM#Ecuador#3AC180A0371AE6237B47E64C8DCC7267#https://www.youtube.com/watch?v=kmqMXlP4-pI#306#Encontrar al mejor proveedor nunca fue tan fácil y rápido: optimiza costos, ahorra tiempo y reduce riesgos.
+
+
+ORGANIC-TOPIA#México#D106EF2046D57F75AB835699CADF73F4##34#Ofrecer una nueva forma de vida, más natural y saludable a través de nuestros productos 100% orgánicos, con entrega a domicilio.
+
+LA CUADRA UNIVERSITARIA#Venezuela#2311A6C3B326BF5545557F206E9A3A06#https://www.youtube.com/watch?v=N0_f0ccLqqI#335#Somos un portal que ofrece información de Becas, Pasantías, Cursos, Convocatorias y más a estudiantes, profesionales y emprendedores .
+SIPLIK#Venezuela#7808D3B3CBB59DA1FBBBC74D520109A1#https://www.youtube.com/watch?v=qdt6-Jj98kM#249#Siplik: Datos que salvan vidas! almacenamiento, procesamiento y análisis de data médica. Videoconsultas, citas y más. Gratis para toda LATAM
+
+
+KITCHHAUS#Perú#EB1BCFBFA86F517A6A90AFBDE8E3A125##24#Cambiar el concepto de la restauración, hacerla inclusiva y social pero de alta calidad. Una experiencia culinaria por y para todos!
+YOU HOTEL STAR#España#8FC03ACEA5A1EDAFF1611E672A1B992D#https://www.youtube.com/watch?v=UOPVDNFhX7s#44#Promoviendo la democracia y el apoyo incondicional a los clientes de hotel de todo el mundo.
+CITYLOK#España#A1183704D34E4CA1A1C9C68884C326F7#https://www.youtube.com/watch?v=Wz_-Bn7lKJs#1986#Abre esta red social creada por usuarios como tú en lugares donde estás tú . Ocio, eventos y actividades colaborativas "aquí y ahora".
+
+TREPSI#Colombia#43E5427D026DD561D890614B0935BD3F##433#YOUR NUTRITION BUDDY Un método que te enseñara a comer, como si tuvieras tu nutricionista en el bolsillo.
+
+PHILOAPP#España#D95AD0FCB51AE26CCD3E15298EEA6836##78#Mira el ambiente en directo de cualquier lugar antes de ir. ??Compra y vende objetos usando el vídeo en directo??
+APETOI#Venezuela#D0CD09B7B98DF32A2D379EBE9D93F709##1255#Somos la primera red de servicios profesionales para el hogar y la oficina. Queremos innovar en el mundo de los servicios
+
+SOCIAL DINAPP#España#B75570AD878DA4BAF60DBA48C8A27789##37#Social Simulators and mobile apps for prevention, intervention and investigation of families conflicts, gender violence and other abuse.
+EDUAPPS#Brasil#7CD2151CA9BF9DC7B2733891FC3115F3##388#La misión de EduApps es promover el aprendizaje móvil en el mundo La plataforma está diseñada para ser la forma más sencilla de crear apps
+
+BOS INGENIERÍA E INNOVACIÓN S.A.S#Colombia#76361F6D8C362DEA36EC7CEFAF004F17##31#Diseñamos y creamos ambientes inteligentes a medida de nuestros clientes, contribuyendo al uso eficiente y responsable de la energía
+
+VENIOS, INC.#Estados Unidos#0C1137470E62599B238D30EFE91CA43A##89#Safety is our game! Make people feel safe when they or their loved ones are on the move and provide quick help automatically when in trouble
+BACKBLACK#España#7A6408F7CDDBB5552692689F1E4C0D32#https://www.youtube.com/watch?v=7ZXzrwKts4A#61#El BackBlack apuesta por una nueva forma de ver las cosas mediante los hologramas y por una Industria Española Ecológica y Sostenible.
+SOCW-LLANTAS#Perú#1422B7C1D3E47B45831CC322149A6B67##47#Primer sistema de control web que permite medir el rendimiento de las llantas en su flota de transporte de pasajeros, carga o minería.
+
+COUCHCOACH#Serbia#3B304B3F01DAF1F431F41F0FB948E240##808#CouchCoach is second screen application for basketball fans where they can coach from the couch, propose players and win or lose points.
+
+%Linea sin informacion
+SMARTFENSE#Argentina#315EB1724E13A7B6BCC5C3FA0367C7AE##89#Ser un componente clave de la estrategia de seguridad informática de las organizaciones, a través de una una plataforma de infosec awareness
+VENTTORI#Colombia#52FD423F39EBD770A2B45F3FC3A7A69F##24#Compre de manera fácil y rápida productos especialmente seleccionados para su negocio.
+
+
+KADI#España#DAB573CFD0CBBA10755A73FFBB5DE44E##88#App para conectar estudiantes de forma segura y productiva. Ofrece mensajería (audio&vídeo), ofimática colaborativa, envío de archivos, etc.
+IT24 INC,#Estados Unidos#337CC93035A3E1C1EC41A1702AC87AD0##45#IT24.io is the on demand platform that connects you with local, highly skilled and screened IT professionals for any on site IT work
+NAYADE PSICÓLOGOS S. COOP. AND.#España#C632A229FB9876E770FDB1F0B4C7CD69##29#Enseñamos una forma diferente de relacionarnos con nuestra mente, para hacer lo que queremos de verdad en cualquier situación.
+
+GORAYMI.COM#Ecuador#6C1428E9EFE7FE7C45438581138D4E12#https://www.youtube.com/watch?v=msXdxNhCx3o#2033#En #GoRaymi el turista DESCUBRE, APRENDE, VIVE y COMPRA la oferta de los actores más pequeños y marginados de la industria del turismo
+
+
+ECONODATA#Brasil#0D3F81DB12BD62AF9786719367D8F672#https://econodata.wistia.com/medias/l8yjtvy7dz#40#Ajudar negócios B2B a prospectarem clientes de uma forma muito mais assertiva.
+ESCUELÍZATE#Venezuela#C4B25FBBDAEBFF576B84829EADAAC473#https://goo.gl/6INI0u#201#Somos el servicio móvil de Gestión Escolar en la nube que conecta en tiempo real a padres y maestros, orientados a la motivación al logro
+TU CUIDADOR EXPRESS#Venezuela#5F88218FC9ACFBD6678556A295CAFBD1##375#Acompañamos a las familias a encontrar, de manera rápida y segura, el mejor servicio de cuidado humano a domicilio para sus seres queridos.
+
+KUICCO#España#2E5E083BE731DF5C968781C5356C9941#https://www.youtube.com/watch?v=OcVCPj2tmJg#668#La app que te permite guardar y compartir las fotos de tus hijos de forma privada y segura.
+
+EDUCATIBOT#España#13137C215B59E36E34132653BC575641##51#En Educatibot nos dedicamos al diseño, producción y venta de robótica educativa, con manuales de construcción y programación.
+DNARITY#Venezuela#4408888656A308EF26B578C97F661001##392#Compra auténtico con el poder de la blockchain. Solución anti-falsificación para la protección de marcas y consumidores.
+
+COCLUB#España#C6E3C4DF5723BC74BB7DDC439D7B5804##56#El primer club de intercambio y alquiler de prendas online #sostenibilidad #economiacolaborativa
+
+ENERGYATYCO#España#F5C0653F8F31E887771476C9926A1255##49#Discriminador horario inteligente de enchufes RF para reducir tu factura de electricidad
+
+QUBUS#Argentina#7B6AE601969608658F5AD6023C5C59C9##172#CREAR ESPACIOS HABITABLES SUSTENTABLES PARA USUARIOS AMBIENTALMENTE CONSCIENTES.
+%Linea sin informacion
+PIXIVUS#Argentina#BB5D264351A15EB80CDE96334EDB91BC#https://www.youtube.com/watch?v=6_aTu4tXDZ0#51#Más fotos, más recuerdos, más fácil.
+TAD TARGET - ANÁLISES WEB#Brasil#33F777C1F05E11A19DB291B0A58A40CA##179#A Tad Target é uma plataforma completa para sua empresa gerar mais tráfego, Leads e vendas.
+INMERTEC#España#972834B45AC4C8AB0EF1D8025C11917E##230#Nuestra misión es mejorar los tratamientos terapéuticos relacionados con la #psicologia y #sexología mediante el uso de la #RealidadVirtual
+%Linea sin informacion
+QUALYME.#España#C4CC3A77D11B9B8F3B79859E627A8AB6#https://youtu.be/8K9I9HuWTho#5778#App "red social de compras": Interactúa con tus empresas favoritas. Encuentra oportunidades cerca de ti. Pagos con descuentos y reembolsos.
+%Linea sin informacion
+
+CARVIL T&D#España#C5A2F6B6C3B252B8FB240588EFFC88DB#http://www.carvilltd.com/rueda-vidgar/#53#Somos una empresa de innovación y de creación de productos innovadores, para diferentes áreas, tales como automoción y energía .
+PICK & LEARN#España#C9B7E19D462BFD849FB81D905169394E##56#Solo puedes aprender a hablar inglés hablando de lo que te gusta
+@Edge
+
+99687498EBCFDB11BE8DFD0CBBDBCA06 93D6822A470E196EF41214E007FC3F3A 8625E2FC2319B24462005814AB40717A 4EA366EE2DC0FDA0BBF85A81332A4040
+
+961649151E316D0681CE611D9FA393E5 ADA66DFECCD5A58BFC921694D419AF8C C4B25FBBDAEBFF576B84829EADAAC473
+6D3F15BED9C56228E4BCCB2AB681F94D E819957A4460DC9C1FF5791C6D79D70E CF89615A9DE07301D404A3873C0E93BF1FBC48D5C31D462231B03EC9588658A0
+47CDC69167A56A88A7C63F23912DCF2A 1198AE1DCC102D5A5A19ABE0DD2CDFC0
+
+
+C588D305C3E7342446C9FCDB649904BA 4EE841136CF52CA0D42953AF87D94B95 D0BE0C279AAD092F55047C9ED485D202 FC2363701E210C6EFE529766E560A323
+
+CF89615A9DE07301D404A3873C0E93BF AB9E0DF864E31F3E657BAEA02CB03BD5 DAB573CFD0CBBA10755A73FFBB5DE44E E5B120E7513DF1E8A19C1D5BC27BC568 6B00B2997BCE92CB02B3A956BDC01D38
+4D17CC3CC4A2FB0A3706EEFD689C8BA5 435990ACF002ECB7ADF2A937971BDAB9 E9B23C528D34A9009765B2A5C4325C36 A2C5D811193555A164BB2C65C539F284 7A6408F7CDDBB5552692689F1E4C0D32
+
+
+AB26D41DC6D9308AC931F9D805C61500 66920651A4DA372182E193907657C27B BCDBF7C753383BD0B7429E2592492372 DEF45B862DFDCBBB6C850001FD76486F E0DF9358CBE730F4E5569A06E2E7EA1F
+
+DE8B290E2CBA3ACDCBE5F7703FA526FE BF5AA5E3E3C6B96EEFA8477185CD62C5 82CA699B02E31BC71E0CA6DB81CFA23E F6108046830AD4B0B669CCE2B41AD476 A501F128FAB157CFFC6999F1BCC46662
+
+E4D3B37B0F218999F400B6DF3631AE2A 7B5D2A04A61E4E56BE18DC58EA99ADCD AB26D41DC6D9308AC931F9D805C61500 BFECD96CA4281147BE875671E162D6F7 CE364853B4E418474BEB77C16B81276E
+66920651A4DA372182E193907657C27B 0CBC34505E3F97C2838BE7F424880058 258B010E5A133C56E568243E91026154
+DB71A2107207AD764EA01515532625C6 18EC393738FE53E06F707F8F17E3F1F3
+EF7830BECCE31C60EFA7EE32B0349192 7CC797C343E5905D0A624DDAD62C8375
+9945E78BA10DBCB205B6CE4337E7A4FA CE25501738AF3AB792CD2A516A53277B 2311A6C3B326BF5545557F206E9A3A06
+%Linea sin informacion
+81B4B3C6E888286778664CCF1AA95ABD 9BD64499AA0183C0A36ED2874896BDC1 CDC7DA00A22AC2C2E1AB31895B7B432C CBE4E1FD040BD509CEB84FB78068970A 1049A883FF47ADC1F80C9A9A4CD7B73E
+
+E0DF9358CBE730F4E5569A06E2E7EA1F 07AF6264CA4DAF448C53282F255505F9 90F28B54BE7867AF480B897F568E3302
+
+
+FB13F6FB3DDCDB07B7C02FBAB9B92E6C DD66EFF8EA0147664C8D385781C72CE9 C301036F526D87A50395D10AB5F9D3AA DE9BAD8E27044D8373792C1304E46FEB A2842722D62597071FCAF4B185C66B7E
+577A8E9D9DB43D6F29E6D69FED77BB19 E819957A4460DC9C1FF5791C6D79D70E BF5AA5E3E3C6B96EEFA8477185CD62C5 E008A66E3889AEC968A0FF75AC103F0C 2718FD57ECC53E5BBB89F5EBEB744462
+%Linea sin informacion
+
+6A52109413F6D45B1BC699CF174AF844 F330CF26FF77D85AA8FD4E0CCD64E5BC
+
+A7463E06B8929729B1300A2567508F2A A2842722D62597071FCAF4B185C66B7E EF15BA1980EA4557755706C8D978F25C
+
+7E03B621E2EBC9C6BBDFC085BA18044F D91AACE7D1A068589BBD852AD8B13DA5 073AD4CCBAE94E40D901EA8E22862AA0
+
+82CA699B02E31BC71E0CA6DB81CFA23E E9B23C528D34A9009765B2A5C4325C36 CA921ECD509F790C06BE8903AEF9AC63 92A461B069D7F9B7DE47048DFB11C189
+68AAF47AECFF57ABFE386D588817D13E 86D67BACFED4C7313D2137DC28573025
+
+53BCB1E7BAF6EC3151DBA61DAAC6CE3D D0CD09B7B98DF32A2D379EBE9D93F709 F934C60E13EB41A17984E6520DA7AD6A 6A52109413F6D45B1BC699CF174AF844 C9B7E19D462BFD849FB81D905169394E
+
+02E616933A00BCACFD107E898B1F407B 161CC14017B08114FD55C7500C843B15 76361F6D8C362DEA36EC7CEFAF004F17 1BDBD7E9C7C2D18A8C75D33FEFA2ACCE 075EE239BA1F00CF6C595AAB71CFBA5A
+AD48ADE702CE2579AFADD2B6ABBF44E7 3CBE4B219D5E7A8EDFDD6E594A28DA80 0D3F81DB12BD62AF9786719367D8F672 9D0E91CAE05B55E7578C9F1939A2E0CA
+%Linea sin informacion
+4EA366EE2DC0FDA0BBF85A81332A4040 FC2363701E210C6EFE529766E560A323 C6E3C4DF5723BC74BB7DDC439D7B5804 CD380E3426EA6CC156744F4AA80F73BA 24E97BC67F75457FCD71AA30375BE94D
+
+1D573A2BD0A902F444BB7DCBB0E73C0F D45F39C2DAD738EDA3057C3BFF4F78C2 710743D0A50F153D983356337C1088D7 8625E2FC2319B24462005814AB40717A 4EA366EE2DC0FDA0BBF85A81332A4040
+9CFC53E29E99C38E002610B7674FF07E 7A6408F7CDDBB5552692689F1E4C0D32
+
+CDC7DA00A22AC2C2E1AB31895B7B432C EB1BCFBFA86F517A6A90AFBDE8E3A125 AD48ADE702CE2579AFADD2B6ABBF44E7 0D3F81DB12BD62AF9786719367D8F672 DE8B290E2CBA3ACDCBE5F7703FA526FE
+83C418718577F4B6F89592D2AAB5B502 53BCB1E7BAF6EC3151DBA61DAAC6CE3D 7B5D2A04A61E4E56BE18DC58EA99ADCD F14FA60DC90195DB9A8CE69C8D6C8C3C 45EF2977DDFF49C4887EAA95CC5EEF63
+E008A66E3889AEC968A0FF75AC103F0C B881BFEF2055E2B95841F47248E53CDD
+DEF45B862DFDCBBB6C850001FD76486F 2FB8CE35713F3D03985225A32D56C058 DF150271414CE682A217811B1C65863E D0CD09B7B98DF32A2D379EBE9D93F709
+%Linea sin informacion
+%Linea sin informacion
+F76CEE224C66A6D862F4CF129984A520 F707CB86C02E9830A3A626B58CC1CFDD D45F39C2DAD738EDA3057C3BFF4F78C2 CBE4E1FD040BD509CEB84FB78068970A
+7F3B3578D907C318FAFA1FD1D78524A0 82CA699B02E31BC71E0CA6DB81CFA23E 9B364ECDE8BB8B418B1E6512C7D6F2B3 098173CF36A9071D503CBECA3EF23A7D
+E80911479A0D152C9DB4EBD4091F003E C5A2F6B6C3B252B8FB240588EFFC88DB 9BF3F4C4D0C6578C2D53BC4C82CC9FBE
+2BFA276C989BB8BC8CE9D0668C4BE66D 2718FD57ECC53E5BBB89F5EBEB744462 8CFF87FE85FDB983AA37E092E489AD2A 2BFA276C989BB8BC8CE9D0668C4BE66D
+40D9749F4891B15EA57F00CAD8363CD1 400FE6969792859BF916E8F814E58AE8 47CDC69167A56A88A7C63F23912DCF2A
+1A7B727CFD977758107F3161E52A3FB6 2FB8CE35713F3D03985225A32D56C058 E6F4F47C859A73BC99EC58736737E166
+
+B08FC44AE730C318A77C7C4DA6BD2314 3C114E9A534020099DC1B7B5DA27C717 D106EF2046D57F75AB835699CADF73F4 7C8A9963D213CFF8EC9ABEF9B6D10EF7 1422B7C1D3E47B45831CC322149A6B67
+%Linea sin informacion
+%Linea sin informacion
+84C76BB084D2099B7C7CC7137E2B9755 CF7661F84619F873B326DC8797154797 16F2FED57A9A90AF84AE182F54C4BE17 C5A2F6B6C3B252B8FB240588EFFC88DB
+
+
+
+1DBE10F89C95A369F7513B5B8135D5D7 CDFB5388ECE8DAE86DF6C06A453A496E 91CFD373ECFBCA645F7EB8F925724265
+
+2718FD57ECC53E5BBB89F5EBEB744462 8EE4216E771A5C21ED06C11019343F80
+5D1ABFB2BE79AF66ABFBA8BEF172744E 79194973A1D3CEF396766FE829A65095 DD66EFF8EA0147664C8D385781C72CE9 B74A2163CEF9CEBFC66926006E735A7C 98E75967A4BBC26D1522C3DABB29699E
+538A226D86E3A3A7B13CC47114E12D29 D4694D6D6994BDABC0AAC7537EECFDE3 BC51C8F7724F69185029CC2EF69EB639
+
+F6108046830AD4B0B669CCE2B41AD476 587210EE1481EA73EB804FF7D839BAC6 75C366D87B3C11D84B41F0ADCCEB4559 9A1AA0C06814ADFB730843217318ABDB
+%Linea sin informacion
+
+208BDC135EB6CE44141CEFCFF7589A9A 78F13A6D25F1CFCD1149C022F0B08453 AB9E0DF864E31F3E657BAEA02CB03BD5 C44A9C872E1854FB035A9869A5CE7D68 C5585A2D3D995CE5CF7CFB62B15DB0B9
+
+0532AEAAC268903CF5CA04001F2065D9 41582A4850CDFF396EB14FEE5B5D360B 72298721D84D7156DDA60A3BF16E18B4 563C089ECE8F98F274D0D178FC62B8ED
+
+51205F127684275D020F0247F0631781 5383348C791CAE2FB3C4E42506E957DC C588D305C3E7342446C9FCDB649904BA 098173CF36A9071D503CBECA3EF23A7D 75C366D87B3C11D84B41F0ADCCEB4559
+24E97BC67F75457FCD71AA30375BE94D FC2363701E210C6EFE529766E560A323 7ACC70EE2CEA878F5F79368F47CAFE3E 9F4A1EE271F3498A383CB7A2081E9FCF
+
+%Linea sin informacion
+3263588C7AF3ACD7A0F8BD757D48ADB5 DD7AD5482D2C56E7A296E3330AA744CE 2E5E083BE731DF5C968781C5356C9941 7454F03A50F6397A0A9429DAC3B39B0E
+
+FFED510D96CB3546DD8878CEB4B7FDC8 3B304B3F01DAF1F431F41F0FB948E240 F330CF26FF77D85AA8FD4E0CCD64E5BC
+760726DFA179F902281714FCECBA3296 3D190F4DD2E9758819687C40AC6EC263
+9A9F3DE12444C2296025742FBCB685CE 36D2458EA289D03569C41F9D55C5448A
+90F28B54BE7867AF480B897F568E3302 8EE4216E771A5C21ED06C11019343F80 2BFA276C989BB8BC8CE9D0668C4BE66D
+C3345B329812CBF7C7860E1ED6531647 B881BFEF2055E2B95841F47248E53CDD 1422B7C1D3E47B45831CC322149A6B67 518618B49B92999C9BEF0E13FB2E0E13 7B5D2A04A61E4E56BE18DC58EA99ADCD
+E19CCB9C09A41C36AF3C3D0D4EC79F2E CE25501738AF3AB792CD2A516A53277B
+
+B74A2163CEF9CEBFC66926006E735A7C 3F5FCB7FE57CE802F658A5CE35C866C0 33DAE9B64BA6E0B1E85AA1E56D37A922
+
+9A1AA0C06814ADFB730843217318ABDB 1FBC48D5C31D462231B03EC9588658A0 4015EDF6E2E00655989070005736027A D6F9A294DE32DE380DE7851F7E192C1D
+%Linea sin informacion
+E690E41802C6403E51DB3A5704BBABF3 D111A7DD48EF70FA868CDC8D9460938C 788B6AD61D6EA503BD9154B4E385DCC5
+
+ADA66DFECCD5A58BFC921694D419AF8C 33F777C1F05E11A19DB291B0A58A40CA
+
+CF7661F84619F873B326DC8797154797 0C1137470E62599B238D30EFE91CA43A 710743D0A50F153D983356337C1088D7
+%Linea sin informacion
+435990ACF002ECB7ADF2A937971BDAB9 7F3B3578D907C318FAFA1FD1D78524A0 E4D3B37B0F218999F400B6DF3631AE2A
+%Linea sin informacion
+F6FE1A6672B32ED3519D09B1DF198AE1 67A0CDA378BC7FC7ACE01FB061ABDB1D DF484EB96886BC8E19E1CD643E328342 7454F03A50F6397A0A9429DAC3B39B0E 4F6AE30CFF3EAF62E3C45E2B9CA0FF6D
+
+073AD4CCBAE94E40D901EA8E22862AA0 13EEA7908AD5DFD911D1E8F718D68B06 C5585A2D3D995CE5CF7CFB62B15DB0B9 5AE6A3BA7CB97FA88A82B2E5162FA202 F6FE1A6672B32ED3519D09B1DF198AE1
+518618B49B92999C9BEF0E13FB2E0E13 02E616933A00BCACFD107E898B1F407B 6A52109413F6D45B1BC699CF174AF844 E31C549F8513BE3A17166F97A2F778A8
+
+611FF7B203F445A39A241C0D70B16BD0 F17023FEAF15E8A11B2D6A9C52418852
+EF1708A52AD3FA65770B636A5C8549BD A33670EC92E931F6F5AC85FCA3A6C4B8 4015EDF6E2E00655989070005736027A
+
+972BE4C84BF9D7909DE37A7C95C6C24D CE474F507E657F1641C461414E24C5AF 6C1428E9EFE7FE7C45438581138D4E12
+
+1ED18DB19FD61DCEC289AD9DA688FB25 76361F6D8C362DEA36EC7CEFAF004F17 33DAE9B64BA6E0B1E85AA1E56D37A922
+93D6822A470E196EF41214E007FC3F3A FEBEF375FE7BA84BCF58FF6533D4CD94 337CC93035A3E1C1EC41A1702AC87AD0 D727DDD5F1CEA57F0EF4F82E6E04A51F C818ABE818FE16E39868B3FC4C7EAEB7
+AB9E0DF864E31F3E657BAEA02CB03BD5 41582A4850CDFF396EB14FEE5B5D360B 7D56BEF564CC368B9085D85A93374E99 972834B45AC4C8AB0EF1D8025C11917E
+
+67CBDEEEBB0A03A1A784F08BF8645CD9 876AD61E684889FFE2B54E6441DA7283 22FC5BC6633DA05F00F98216EE8A83E7 16F2FED57A9A90AF84AE182F54C4BE17
+FEBEF375FE7BA84BCF58FF6533D4CD94 1049A883FF47ADC1F80C9A9A4CD7B73E 6926DB65436D525B13433C6F6BBE158D B4895FC85BE0C5108DABAA24CD54043D
+5AE6A3BA7CB97FA88A82B2E5162FA202 E008A66E3889AEC968A0FF75AC103F0C E19CCB9C09A41C36AF3C3D0D4EC79F2E A2842722D62597071FCAF4B185C66B7E
+
+0F919D23D171A1471CDDFEC3B88B9863 67A0CDA378BC7FC7ACE01FB061ABDB1D DF150271414CE682A217811B1C65863E F5C0653F8F31E887771476C9926A1255 D4B29B6CC8A6F861A4D6927BB9B3B61A
+C301036F526D87A50395D10AB5F9D3AA E420CFECAC6EEDB19E00502E93C2EE64 CDFB5388ECE8DAE86DF6C06A453A496E 9D0E91CAE05B55E7578C9F1939A2E0CA
+
+06C62707DD8D4FD7CAFC202609AE49E3 A33670EC92E931F6F5AC85FCA3A6C4B8 1198AE1DCC102D5A5A19ABE0DD2CDFC0 9C884BD08AE2040766F4F81E20707A47 D4694D6D6994BDABC0AAC7537EECFDE3
+%Linea sin informacion
+EFF1589E04D77A5B1E0024A9BC6B7478 E0DF9358CBE730F4E5569A06E2E7EA1F
+%Linea sin informacion
+CBE4E1FD040BD509CEB84FB78068970A 1571B4FAB69796AD841AD63071E6D29B 36D2458EA289D03569C41F9D55C5448A
+%Linea sin informacion
+%Linea sin informacion
+75C366D87B3C11D84B41F0ADCCEB4559 66920651A4DA372182E193907657C27B BF5AA5E3E3C6B96EEFA8477185CD62C5 9BD64499AA0183C0A36ED2874896BDC1
+09ABAD6FD7E2B785480B7E60023860ED F6CF8210794C2DC4AABDB8CCA4F0F64B
+CE364853B4E418474BEB77C16B81276E F558E53D19A845A6B5C3771D38B2D87A
+
+F7174FB13821D577969A2BA42735E389 EF5B53AACD5C875E9FF353BBBC5FA539 CE364853B4E418474BEB77C16B81276E 8D669B744EDC8A309D5F5A67B6925808 3A11720B6E7FFE685ED7CCA3E5A027C3
+
+8EE4216E771A5C21ED06C11019343F80 3B304B3F01DAF1F431F41F0FB948E240
+3CBE4B219D5E7A8EDFDD6E594A28DA80 D9478B24888006A4B319DEC0356AE408
+E9B23C528D34A9009765B2A5C4325C36 EA2247653660F8135483E400A549BB05 9E5D58A9DB950F0B878043AC92625885 CE25501738AF3AB792CD2A516A53277B
+
+
+BAE0890F38762C7D8D7413702B513995 EEB7290AFA80B2E3000ADE61135313D5
+
+D6F9A294DE32DE380DE7851F7E192C1D C588D305C3E7342446C9FCDB649904BA B881BFEF2055E2B95841F47248E53CDD 1049A883FF47ADC1F80C9A9A4CD7B73E
+6D8B6A9663F277638EBD4C727801BA56 3B304B3F01DAF1F431F41F0FB948E240 589CD2F391E144BDC94B57536CBE83A5 33DAE9B64BA6E0B1E85AA1E56D37A922 A33670EC92E931F6F5AC85FCA3A6C4B8
+
+A43C841A521DD78BFB19E6F5AF4E6FB7 C5585A2D3D995CE5CF7CFB62B15DB0B9 33DAE9B64BA6E0B1E85AA1E56D37A922
+
+1BDBD7E9C7C2D18A8C75D33FEFA2ACCE E4D3B37B0F218999F400B6DF3631AE2A 3263588C7AF3ACD7A0F8BD757D48ADB5
+
+075EE239BA1F00CF6C595AAB71CFBA5A C4027AC8A35FA6F0C91DE372B64B6114
+
+%Linea sin informacion
+788B6AD61D6EA503BD9154B4E385DCC5 315EB1724E13A7B6BCC5C3FA0367C7AE DF150271414CE682A217811B1C65863E 2A7601BA1FC81C60DB123C8CAC58B1C3
+
+87F124222CD8F0A9F8D39E1512C6BC1E 99687498EBCFDB11BE8DFD0CBBDBCA06 A2842722D62597071FCAF4B185C66B7E 3F5FCB7FE57CE802F658A5CE35C866C0 0F6D3B9BE8B1F5E72806FFD113D20893
+7ACC70EE2CEA878F5F79368F47CAFE3E EF1708A52AD3FA65770B636A5C8549BD
+FE59E8358A5B3A35D668F761CD2114D2 C02E5060F6D613677B00E8FE4230F36C D727DDD5F1CEA57F0EF4F82E6E04A51F 611FF7B203F445A39A241C0D70B16BD0
+
+E6F4F47C859A73BC99EC58736737E166 3B35200F55C5A4C9E5F62447E28879CC DF484EB96886BC8E19E1CD643E328342 E31C549F8513BE3A17166F97A2F778A8
+0F6D3B9BE8B1F5E72806FFD113D20893 6F6A8005ED82C8D3B9DF5B4E0E139F23
+5951CF1B63AFF36658397F7C508F29E3 84C76BB084D2099B7C7CC7137E2B9755 86D67BACFED4C7313D2137DC28573025 F0D08D43D0411A3103D5558BA190E860
+%Linea sin informacion
+BEB8979FB0531B64DF68B5280868C056 877E4BFF89FEDD78D5A8ACF559E8C685 B55D6289E507154C49CE61AFF9FD9BCC 1782CBA272A7E3BD4108BE932BEED242 2E530C8FC9EFD903AA4B34A7A8BB2DE5
+1049A883FF47ADC1F80C9A9A4CD7B73E 315EB1724E13A7B6BCC5C3FA0367C7AE C5A2F6B6C3B252B8FB240588EFFC88DB 0C1137470E62599B238D30EFE91CA43A 208BDC135EB6CE44141CEFCFF7589A9A
+199BBE1A122FA7F6D9CFDA1F5C586C08 6926DB65436D525B13433C6F6BBE158D
+7454F03A50F6397A0A9429DAC3B39B0E AB26D41DC6D9308AC931F9D805C61500 F330CF26FF77D85AA8FD4E0CCD64E5BC
+
+BAD27348D68AD8D41B2EB4EEEF7D5A6B 45EF2977DDFF49C4887EAA95CC5EEF63 EF15BA1980EA4557755706C8D978F25C DAB573CFD0CBBA10755A73FFBB5DE44E EF1708A52AD3FA65770B636A5C8549BD
+6FA1DEEDDEB5FFCDAC201647893DD266 BC281B0AF755462593C971189ECD05E2 8C439A587C4F6A0173C576196FF0B1BF
+%Linea sin informacion
+
+7B5D2A04A61E4E56BE18DC58EA99ADCD 611FF7B203F445A39A241C0D70B16BD0
+
+9BF3F4C4D0C6578C2D53BC4C82CC9FBE A7463E06B8929729B1300A2567508F2A E9B23C528D34A9009765B2A5C4325C36 F707CB86C02E9830A3A626B58CC1CFDD 2718FD57ECC53E5BBB89F5EBEB744462
+6302D9AA103E050AFF3335062CC23B45 EF15BA1980EA4557755706C8D978F25C 1DBE10F89C95A369F7513B5B8135D5D7 E6F4F47C859A73BC99EC58736737E166 CE364853B4E418474BEB77C16B81276E
+
+72298721D84D7156DDA60A3BF16E18B4 6926DB65436D525B13433C6F6BBE158D
+
+589CD2F391E144BDC94B57536CBE83A5 6D8B6A9663F277638EBD4C727801BA56 161CC14017B08114FD55C7500C843B15
+%Linea sin informacion
+7CC797C343E5905D0A624DDAD62C8375 B4895FC85BE0C5108DABAA24CD54043D
+%Linea sin informacion
+2FB8CE35713F3D03985225A32D56C058 13137C215B59E36E34132653BC575641 98E75967A4BBC26D1522C3DABB29699E F4E36793A5A01A1AABF9AD7D43F292AE
+
+E420CFECAC6EEDB19E00502E93C2EE64 FC2363701E210C6EFE529766E560A323 F14FA60DC90195DB9A8CE69C8D6C8C3C 9E5D58A9DB950F0B878043AC92625885
+
+
+098173CF36A9071D503CBECA3EF23A7D 400FE6969792859BF916E8F814E58AE8 208BDC135EB6CE44141CEFCFF7589A9A 2E5E083BE731DF5C968781C5356C9941 589CD2F391E144BDC94B57536CBE83A5
+
+%Linea sin informacion
+CDFB5388ECE8DAE86DF6C06A453A496E 4F6AE30CFF3EAF62E3C45E2B9CA0FF6D
+B218B7D220B065CE6567FAFC4CBF23DA 6302D9AA103E050AFF3335062CC23B45 788B6AD61D6EA503BD9154B4E385DCC5 8CD7EB5692A3BE6CAC9729229CE5EEDC B572CE1E59D6DAF58CF121B21A82B086
+D98089E9EBE39890F0199C007104CFA9 53C650645FD8B92FC3D4BBD7E0E2EC48
+
+67A4FAAA9C5BB1792D020826275E45DC BAD27348D68AD8D41B2EB4EEEF7D5A6B EF5B53AACD5C875E9FF353BBBC5FA539 0C1137470E62599B238D30EFE91CA43A
+
+
+2A7601BA1FC81C60DB123C8CAC58B1C3 64DC50E95226D45E18F104E22D5099A6 6D8B6A9663F277638EBD4C727801BA56 9CFC53E29E99C38E002610B7674FF07E
+
+8ADC554874A71BBF637EC063DF9D069C B75570AD878DA4BAF60DBA48C8A27789 C812C4BF07210853A634FA85482C9E1B
+940A5B8B24AA1344D83A37C434082B1C D774466CB7CDA9D302A91B584AE86E83 C3345B329812CBF7C7860E1ED6531647 D0BE0C279AAD092F55047C9ED485D202 C44A9C872E1854FB035A9869A5CE7D68
+
+79194973A1D3CEF396766FE829A65095 3A11720B6E7FFE685ED7CCA3E5A027C3 06C62707DD8D4FD7CAFC202609AE49E3
+4FD9FFDC1D195530161055D995435F30 75C366D87B3C11D84B41F0ADCCEB4559 400FE6969792859BF916E8F814E58AE8 CF89615A9DE07301D404A3873C0E93BF 3B35200F55C5A4C9E5F62447E28879CC
+
+64247B4585A17685332FB82E367F675D D45F39C2DAD738EDA3057C3BFF4F78C2 8C0F799850203B0FEA0544B4F1C28683
+2A14714E00C406CC834A878D9ACFEF62 5F88218FC9ACFBD6678556A295CAFBD1 1571B4FAB69796AD841AD63071E6D29B 2E5E083BE731DF5C968781C5356C9941
+
+F17023FEAF15E8A11B2D6A9C52418852 D2823950DA02E833AB2611B4435CAEDD A1183704D34E4CA1A1C9C68884C326F7
+4342F474717B9B86216569D2C2CBA497 577A8E9D9DB43D6F29E6D69FED77BB19 43E5427D026DD561D890614B0935BD3F 6D3F15BED9C56228E4BCCB2AB681F94D F6108046830AD4B0B669CCE2B41AD476
+8B293EE5602AA125B5633E5CA6A4AB5C 7808D3B3CBB59DA1FBBBC74D520109A1 7CD2151CA9BF9DC7B2733891FC3115F3
+D9478B24888006A4B319DEC0356AE408 F5C0653F8F31E887771476C9926A1255 7E44006E2C8B51046ABAD501A3D20A7D 41582A4850CDFF396EB14FEE5B5D360B 395FF5D78C98A913B949DFE0607845CA
+8CFF87FE85FDB983AA37E092E489AD2A BB5D264351A15EB80CDE96334EDB91BC
+B455F404259FC5B86AC3DB7B26AC3BAF 53C650645FD8B92FC3D4BBD7E0E2EC48 877E4BFF89FEDD78D5A8ACF559E8C685 09ABAD6FD7E2B785480B7E60023860ED
+
+
+AC4B155B7E3221D60E73287CAC4626FB 315EB1724E13A7B6BCC5C3FA0367C7AE
+DE4EE217F31A4E515837F83881D5D48A 2A7601BA1FC81C60DB123C8CAC58B1C3
+%Linea sin informacion
+A8F05369ECDFDB07B9726FC40BA260E8 098173CF36A9071D503CBECA3EF23A7D 8FC03ACEA5A1EDAFF1611E672A1B992D
+
+91CFD373ECFBCA645F7EB8F925724265 A2842722D62597071FCAF4B185C66B7E
+
+E819957A4460DC9C1FF5791C6D79D70E CF7661F84619F873B326DC8797154797 E420CFECAC6EEDB19E00502E93C2EE64 2E5E083BE731DF5C968781C5356C9941
+
+760E30D5DC7D647D6A56E44184B9500F 1198AE1DCC102D5A5A19ABE0DD2CDFC0 AB9E0DF864E31F3E657BAEA02CB03BD5 1FBC48D5C31D462231B03EC9588658A0 3AC180A0371AE6237B47E64C8DCC7267
+
+EA2247653660F8135483E400A549BB05 0CBC34505E3F97C2838BE7F424880058 83C418718577F4B6F89592D2AAB5B502 C3345B329812CBF7C7860E1ED6531647 3263588C7AF3ACD7A0F8BD757D48ADB5
+%Linea sin informacion
+3F12D41993FCAAC0A77E726FA531152C 8CD7EB5692A3BE6CAC9729229CE5EEDC D4B29B6CC8A6F861A4D6927BB9B3B61A
+395FF5D78C98A913B949DFE0607845CA 53C650645FD8B92FC3D4BBD7E0E2EC48 1674EDF45780FD478349573077339C28 BC281B0AF755462593C971189ECD05E2 6FA8A9C302D35FBEDA43E697B839A7BA
+D13A70F281561A6CDB02EF4553E64DE2 A6B98A77033FDA2B0FAE71A455C111CA 68AAF47AECFF57ABFE386D588817D13E 8B293EE5602AA125B5633E5CA6A4AB5C
+
+BC51C8F7724F69185029CC2EF69EB639 9688B0F8B3CD8D73978121AAEDCA10DB 68AAF47AECFF57ABFE386D588817D13E
+
+
+7B04E27B6D198E6F2C5F945E8404760E B218B7D220B065CE6567FAFC4CBF23DA 45EF2977DDFF49C4887EAA95CC5EEF63
+E31C549F8513BE3A17166F97A2F778A8 D106EF2046D57F75AB835699CADF73F4
+146CAED15CC8BF2ED839FD238160500B 84C76BB084D2099B7C7CC7137E2B9755 DD6BCC7E190EFEA303E4ADE99EB55B2C 6302D9AA103E050AFF3335062CC23B45
+%Linea sin informacion
+B572CE1E59D6DAF58CF121B21A82B086 7808D3B3CBB59DA1FBBBC74D520109A1
+
+98E75967A4BBC26D1522C3DABB29699E E80911479A0D152C9DB4EBD4091F003E 3263588C7AF3ACD7A0F8BD757D48ADB5 208BDC135EB6CE44141CEFCFF7589A9A
+
+%Linea sin informacion
+824A8757B3F73CFA497165021E88DAA1 D91AACE7D1A068589BBD852AD8B13DA5 DE8B290E2CBA3ACDCBE5F7703FA526FE 05F49D2096BA590CF5F94B0F95D096C7 3C114E9A534020099DC1B7B5DA27C717
+
+D4B29B6CC8A6F861A4D6927BB9B3B61A DAB573CFD0CBBA10755A73FFBB5DE44E 5951CF1B63AFF36658397F7C508F29E3
+
+B55D6289E507154C49CE61AFF9FD9BCC B75570AD878DA4BAF60DBA48C8A27789
+%Linea sin informacion
+64DC50E95226D45E18F104E22D5099A6 6C1428E9EFE7FE7C45438581138D4E12 EF7830BECCE31C60EFA7EE32B0349192 F5C0653F8F31E887771476C9926A1255 7CC797C343E5905D0A624DDAD62C8375
+
+161CC14017B08114FD55C7500C843B15 3F12D41993FCAAC0A77E726FA531152C 6926DB65436D525B13433C6F6BBE158D
+%Linea sin informacion
+1782CBA272A7E3BD4108BE932BEED242 1D573A2BD0A902F444BB7DCBB0E73C0F 9BF3F4C4D0C6578C2D53BC4C82CC9FBE AD48ADE702CE2579AFADD2B6ABBF44E7
+
+EF5B53AACD5C875E9FF353BBBC5FA539 E6F4F47C859A73BC99EC58736737E166
+84DB635A7028E565F59979C2150F5E81 E5F25C6DE4E5E7C35364CBF3A4388047
+3A11720B6E7FFE685ED7CCA3E5A027C3 1198AE1DCC102D5A5A19ABE0DD2CDFC0 76361F6D8C362DEA36EC7CEFAF004F17
+
+074F0836D05A1CE9345AF873375AC349 DAB573CFD0CBBA10755A73FFBB5DE44E D98089E9EBE39890F0199C007104CFA9
+41582A4850CDFF396EB14FEE5B5D360B F4E36793A5A01A1AABF9AD7D43F292AE 4408888656A308EF26B578C97F661001 F93B027F3320425FA981202F2C9E4BDC
+
+CE474F507E657F1641C461414E24C5AF CF89615A9DE07301D404A3873C0E93BF
+
+22FC5BC6633DA05F00F98216EE8A83E7 67A4FAAA9C5BB1792D020826275E45DC
+7D56BEF564CC368B9085D85A93374E99 208BDC135EB6CE44141CEFCFF7589A9A F17023FEAF15E8A11B2D6A9C52418852 BFECD96CA4281147BE875671E162D6F7 7B6AE601969608658F5AD6023C5C59C9
+
+53C650645FD8B92FC3D4BBD7E0E2EC48 9C884BD08AE2040766F4F81E20707A47 6A52109413F6D45B1BC699CF174AF844
+8625E2FC2319B24462005814AB40717A 83C418718577F4B6F89592D2AAB5B502 E819957A4460DC9C1FF5791C6D79D70E 52FD423F39EBD770A2B45F3FC3A7A69F
+
+
+4015EDF6E2E00655989070005736027A 6B00B2997BCE92CB02B3A956BDC01D38 146CAED15CC8BF2ED839FD238160500B CBE4E1FD040BD509CEB84FB78068970A 6FA8A9C302D35FBEDA43E697B839A7BA
+1674EDF45780FD478349573077339C28 D4694D6D6994BDABC0AAC7537EECFDE3 1A7B727CFD977758107F3161E52A3FB6
+
+745810ADA7E2419D48E8D7693BC0733F F6CF8210794C2DC4AABDB8CCA4F0F64B 43E5427D026DD561D890614B0935BD3F 52FD423F39EBD770A2B45F3FC3A7A69F B4895FC85BE0C5108DABAA24CD54043D
+F2A1D75F8DE7D9A3A9ECED75AF92FD95 563C089ECE8F98F274D0D178FC62B8ED 3F5FCB7FE57CE802F658A5CE35C866C0
+
+D0BE0C279AAD092F55047C9ED485D202 F7174FB13821D577969A2BA42735E389 D727DDD5F1CEA57F0EF4F82E6E04A51F
+3AB4ABC20CE2BCD12582175D447CBB5E B67CE366D95A6FA64CB1347C73C266C8 3D190F4DD2E9758819687C40AC6EC263 DB71A2107207AD764EA01515532625C6
+
+C02E5060F6D613677B00E8FE4230F36C 75C366D87B3C11D84B41F0ADCCEB4559
+F2834728B0ABC8A2F45254A237D297AF E443AFC47EA5BFEA75C054A99E93D25E 7E03B621E2EBC9C6BBDFC085BA18044F
+%Linea sin informacion
+4EE841136CF52CA0D42953AF87D94B95 A501F128FAB157CFFC6999F1BCC46662 B4895FC85BE0C5108DABAA24CD54043D 7F3B3578D907C318FAFA1FD1D78524A0
+
+3B35200F55C5A4C9E5F62447E28879CC 4EDB7CF265259500C18F731BCA972CD6
+EEB7290AFA80B2E3000ADE61135313D5 09ABAD6FD7E2B785480B7E60023860ED
+DF150271414CE682A217811B1C65863E EF1708A52AD3FA65770B636A5C8549BD 6302D9AA103E050AFF3335062CC23B45
+
+14C1F9EC592F6DCB1AEF03A263B8CFF5 DF484EB96886BC8E19E1CD643E328342 B218B7D220B065CE6567FAFC4CBF23DA DE8B290E2CBA3ACDCBE5F7703FA526FE E31C549F8513BE3A17166F97A2F778A8
+92A461B069D7F9B7DE47048DFB11C189 2FB8CE35713F3D03985225A32D56C058 C588D305C3E7342446C9FCDB649904BA 2311A6C3B326BF5545557F206E9A3A06 EEB7290AFA80B2E3000ADE61135313D5
+67A0CDA378BC7FC7ACE01FB061ABDB1D F14FA60DC90195DB9A8CE69C8D6C8C3C
+%Linea sin informacion
+%Linea sin informacion
+F93B027F3320425FA981202F2C9E4BDC 3B35200F55C5A4C9E5F62447E28879CC F0D08D43D0411A3103D5558BA190E860 E690E41802C6403E51DB3A5704BBABF3
+
+9B364ECDE8BB8B418B1E6512C7D6F2B3 2E5E083BE731DF5C968781C5356C9941 6926DB65436D525B13433C6F6BBE158D
+
+82ADC23189B0C8611BC73EBBE7F5DB3D 2E5E083BE731DF5C968781C5356C9941 6D8B6A9663F277638EBD4C727801BA56 F6108046830AD4B0B669CCE2B41AD476
+
+50CFEC950462C1927C29264E288EFD43 ADA66DFECCD5A58BFC921694D419AF8C 9D0E91CAE05B55E7578C9F1939A2E0CA 40AF1B23E8A3F9B71B884D2DBEC9B39F 435990ACF002ECB7ADF2A937971BDAB9
+D4694D6D6994BDABC0AAC7537EECFDE3 47CDC69167A56A88A7C63F23912DCF2A 14C1F9EC592F6DCB1AEF03A263B8CFF5 86D67BACFED4C7313D2137DC28573025
+5274FCE9AF2A68D963611AF1EC9450D7 A7463E06B8929729B1300A2567508F2A 05F49D2096BA590CF5F94B0F95D096C7 0F919D23D171A1471CDDFEC3B88B9863
+
+05F49D2096BA590CF5F94B0F95D096C7 6926DB65436D525B13433C6F6BBE158D 24E97BC67F75457FCD71AA30375BE94D
+
+A6B98A77033FDA2B0FAE71A455C111CA D6F9A294DE32DE380DE7851F7E192C1D 7B5D2A04A61E4E56BE18DC58EA99ADCD 1DAFAC4ED2E0970525CD4C27D07F116F 02E616933A00BCACFD107E898B1F407B
+
+4959D289F9E03245E1DE2418E17DCFC3 A43C841A521DD78BFB19E6F5AF4E6FB7 8ADC554874A71BBF637EC063DF9D069C
+7825EFEDA4E3C58C14EA1CC63859937C 3B35200F55C5A4C9E5F62447E28879CC
+
+3D190F4DD2E9758819687C40AC6EC263 C4027AC8A35FA6F0C91DE372B64B6114 BCDBF7C753383BD0B7429E2592492372
+
+C59B32DD0342624A03A44DE2AF5701C3 4D17CC3CC4A2FB0A3706EEFD689C8BA5 E5B120E7513DF1E8A19C1D5BC27BC568 CDFB5388ECE8DAE86DF6C06A453A496E 098173CF36A9071D503CBECA3EF23A7D
+
+
+10E8029F54969BB77895F23F726EC830 710743D0A50F153D983356337C1088D7 315EB1724E13A7B6BCC5C3FA0367C7AE CDC7DA00A22AC2C2E1AB31895B7B432C
+BC281B0AF755462593C971189ECD05E2 AB26D41DC6D9308AC931F9D805C61500
+
+%Linea sin informacion
+877E4BFF89FEDD78D5A8ACF559E8C685 8EE4216E771A5C21ED06C11019343F80 2EE79DFA7E75D371A27DF6127DB32597 4D17CC3CC4A2FB0A3706EEFD689C8BA5
+DD7AD5482D2C56E7A296E3330AA744CE 7C1DC81C09EA0F3FA1CA208F01E646ED 199BBE1A122FA7F6D9CFDA1F5C586C08 E9B23C528D34A9009765B2A5C4325C36 1C6A87DB8FABDF8EC1ABA5576C454A4F
+%Linea sin informacion
+BFECD96CA4281147BE875671E162D6F7 7A6408F7CDDBB5552692689F1E4C0D32
+
+
+18EC393738FE53E06F707F8F17E3F1F3 1571B4FAB69796AD841AD63071E6D29B 2BFA276C989BB8BC8CE9D0668C4BE66D 1BDBD7E9C7C2D18A8C75D33FEFA2ACCE
+BF5AA5E3E3C6B96EEFA8477185CD62C5 3D190F4DD2E9758819687C40AC6EC263 86D67BACFED4C7313D2137DC28573025 CBE4E1FD040BD509CEB84FB78068970A 0794B5DDB966EF7C6761208D515C6EE6
+
+40465D92FB1ECC85E268313659F22115 3AC180A0371AE6237B47E64C8DCC7267 5D1ABFB2BE79AF66ABFBA8BEF172744E
+F6258E955A0C0C590DC6E5CF3FE5628B B455F404259FC5B86AC3DB7B26AC3BAF DF484EB96886BC8E19E1CD643E328342 E6F4F47C859A73BC99EC58736737E166 05F49D2096BA590CF5F94B0F95D096C7
+
+
+3F5FCB7FE57CE802F658A5CE35C866C0 B67CE366D95A6FA64CB1347C73C266C8 518618B49B92999C9BEF0E13FB2E0E13
+0CBC34505E3F97C2838BE7F424880058 972834B45AC4C8AB0EF1D8025C11917E E008A66E3889AEC968A0FF75AC103F0C 8CFF87FE85FDB983AA37E092E489AD2A D4B29B6CC8A6F861A4D6927BB9B3B61A
+
+%Linea sin informacion
+A8BADC1D8E9040D07E97BB1F6C33821A 91CFD373ECFBCA645F7EB8F925724265 C4CC3A77D11B9B8F3B79859E627A8AB6 395FF5D78C98A913B949DFE0607845CA
+
+
+B881BFEF2055E2B95841F47248E53CDD EEB7290AFA80B2E3000ADE61135313D5 09ABAD6FD7E2B785480B7E60023860ED
+
+78144475FDF8199EEEEE599E28E59667 611FF7B203F445A39A241C0D70B16BD0 D95AD0FCB51AE26CCD3E15298EEA6836 A43C841A521DD78BFB19E6F5AF4E6FB7
+FD62B8316C4B4BE9ED211862B197E205 D13A70F281561A6CDB02EF4553E64DE2 8ADC554874A71BBF637EC063DF9D069C
+6FA8A9C302D35FBEDA43E697B839A7BA 18EC393738FE53E06F707F8F17E3F1F3 972BE4C84BF9D7909DE37A7C95C6C24D 2BFA276C989BB8BC8CE9D0668C4BE66D 2311A6C3B326BF5545557F206E9A3A06
+
+33DAE9B64BA6E0B1E85AA1E56D37A922 9945E78BA10DBCB205B6CE4337E7A4FA 9A9F3DE12444C2296025742FBCB685CE 710743D0A50F153D983356337C1088D7 3F5FCB7FE57CE802F658A5CE35C866C0
+%Linea sin informacion
+
+F330CF26FF77D85AA8FD4E0CCD64E5BC 8D669B744EDC8A309D5F5A67B6925808 7C1DC81C09EA0F3FA1CA208F01E646ED 72298721D84D7156DDA60A3BF16E18B4 84C76BB084D2099B7C7CC7137E2B9755
+F4E36793A5A01A1AABF9AD7D43F292AE 1A7B727CFD977758107F3161E52A3FB6 8625E2FC2319B24462005814AB40717A CF7661F84619F873B326DC8797154797
+
+BCDBF7C753383BD0B7429E2592492372 0532AEAAC268903CF5CA04001F2065D9 7B5D2A04A61E4E56BE18DC58EA99ADCD 93D6822A470E196EF41214E007FC3F3A 7F3B3578D907C318FAFA1FD1D78524A0
+B4895FC85BE0C5108DABAA24CD54043D 6168AA986E3FB0001A552790B049C6AB A7463E06B8929729B1300A2567508F2A
+
+2BA8C87507F5BB2A148A61A0C2AE1842 B08FC44AE730C318A77C7C4DA6BD2314
+%Linea sin informacion
+
+6926DB65436D525B13433C6F6BBE158D E6F4F47C859A73BC99EC58736737E166 3D190F4DD2E9758819687C40AC6EC263 E5F25C6DE4E5E7C35364CBF3A4388047
+
+D111A7DD48EF70FA868CDC8D9460938C D45F39C2DAD738EDA3057C3BFF4F78C2
+
+1571B4FAB69796AD841AD63071E6D29B 40AF1B23E8A3F9B71B884D2DBEC9B39F 9945E78BA10DBCB205B6CE4337E7A4FA
+
+1FBC48D5C31D462231B03EC9588658A0 2BA8C87507F5BB2A148A61A0C2AE1842 1FBC48D5C31D462231B03EC9588658A0 2311A6C3B326BF5545557F206E9A3A06
+258B010E5A133C56E568243E91026154 EF5B53AACD5C875E9FF353BBBC5FA539 F2834728B0ABC8A2F45254A237D297AF 760726DFA179F902281714FCECBA3296 98E75967A4BBC26D1522C3DABB29699E
+
+D2823950DA02E833AB2611B4435CAEDD 6B00B2997BCE92CB02B3A956BDC01D38
+E5F25C6DE4E5E7C35364CBF3A4388047 4342F474717B9B86216569D2C2CBA497
+
+
+C525CF36520BF265C3A6ACF3D472C3B9 BC51C8F7724F69185029CC2EF69EB639
+0B7042C3FDEDE13CCDBAB97983FB6DBB 3C114E9A534020099DC1B7B5DA27C717 D4694D6D6994BDABC0AAC7537EECFDE3 DAB573CFD0CBBA10755A73FFBB5DE44E 8D669B744EDC8A309D5F5A67B6925808
+%Linea sin informacion
+8C0F799850203B0FEA0544B4F1C28683 824A8757B3F73CFA497165021E88DAA1 7C8A9963D213CFF8EC9ABEF9B6D10EF7
+DD6BCC7E190EFEA303E4ADE99EB55B2C 8D669B744EDC8A309D5F5A67B6925808 745810ADA7E2419D48E8D7693BC0733F 563C089ECE8F98F274D0D178FC62B8ED DE8B290E2CBA3ACDCBE5F7703FA526FE
+C4027AC8A35FA6F0C91DE372B64B6114 D6F9A294DE32DE380DE7851F7E192C1D F2A1D75F8DE7D9A3A9ECED75AF92FD95 1DBE10F89C95A369F7513B5B8135D5D7
+
+07AF6264CA4DAF448C53282F255505F9 18EC393738FE53E06F707F8F17E3F1F3
+
+
+B67CE366D95A6FA64CB1347C73C266C8 F5C0653F8F31E887771476C9926A1255 A2C5D811193555A164BB2C65C539F284
+
+36D2458EA289D03569C41F9D55C5448A 563C089ECE8F98F274D0D178FC62B8ED C818ABE818FE16E39868B3FC4C7EAEB7 7CC797C343E5905D0A624DDAD62C8375
+2EE79DFA7E75D371A27DF6127DB32597 BF5AA5E3E3C6B96EEFA8477185CD62C5 A43C841A521DD78BFB19E6F5AF4E6FB7 E443AFC47EA5BFEA75C054A99E93D25E 370D9BAAA6A7A11BE7250D66884D46E4
+876AD61E684889FFE2B54E6441DA7283 2311A6C3B326BF5545557F206E9A3A06
+2E530C8FC9EFD903AA4B34A7A8BB2DE5 877E4BFF89FEDD78D5A8ACF559E8C685 AC4B155B7E3221D60E73287CAC4626FB
+
+1C6A87DB8FABDF8EC1ABA5576C454A4F 6F6A8005ED82C8D3B9DF5B4E0E139F23 53C650645FD8B92FC3D4BBD7E0E2EC48 2A14714E00C406CC834A878D9ACFEF62 F76CEE224C66A6D862F4CF129984A520
+
+5383348C791CAE2FB3C4E42506E957DC 53BCB1E7BAF6EC3151DBA61DAAC6CE3D
+
+
+
+1198AE1DCC102D5A5A19ABE0DD2CDFC0 6F6A8005ED82C8D3B9DF5B4E0E139F23 9688B0F8B3CD8D73978121AAEDCA10DB 7B5D2A04A61E4E56BE18DC58EA99ADCD
+
+7C8A9963D213CFF8EC9ABEF9B6D10EF7 F6108046830AD4B0B669CCE2B41AD476 074F0836D05A1CE9345AF873375AC349
+
+C818ABE818FE16E39868B3FC4C7EAEB7 F6108046830AD4B0B669CCE2B41AD476 4EE841136CF52CA0D42953AF87D94B95 90F28B54BE7867AF480B897F568E3302
+11D1F2F108E7030D10E56473942ACE5C 6168AA986E3FB0001A552790B049C6AB 563C089ECE8F98F274D0D178FC62B8ED DD6BCC7E190EFEA303E4ADE99EB55B2C 2BFA276C989BB8BC8CE9D0668C4BE66D
+
+
+%Linea sin informacion
+DD66EFF8EA0147664C8D385781C72CE9 86D67BACFED4C7313D2137DC28573025 C59B32DD0342624A03A44DE2AF5701C3 6D3F15BED9C56228E4BCCB2AB681F94D
+
+40AF1B23E8A3F9B71B884D2DBEC9B39F 8CFF87FE85FDB983AA37E092E489AD2A D727DDD5F1CEA57F0EF4F82E6E04A51F 5F88218FC9ACFBD6678556A295CAFBD1 DE9BAD8E27044D8373792C1304E46FEB
+9688B0F8B3CD8D73978121AAEDCA10DB D4B29B6CC8A6F861A4D6927BB9B3B61A 09ABAD6FD7E2B785480B7E60023860ED D95AD0FCB51AE26CCD3E15298EEA6836 F93B027F3320425FA981202F2C9E4BDC
+C812C4BF07210853A634FA85482C9E1B DE4EE217F31A4E515837F83881D5D48A F6FE1A6672B32ED3519D09B1DF198AE1
+710743D0A50F153D983356337C1088D7 1198AE1DCC102D5A5A19ABE0DD2CDFC0 CA4C8607BEF915A8605145022121E7F4 9945E78BA10DBCB205B6CE4337E7A4FA
+4EDB7CF265259500C18F731BCA972CD6 A6B98A77033FDA2B0FAE71A455C111CA 64DC50E95226D45E18F104E22D5099A6
+
+400FE6969792859BF916E8F814E58AE8 EF15BA1980EA4557755706C8D978F25C CE474F507E657F1641C461414E24C5AF B218B7D220B065CE6567FAFC4CBF23DA
+
+16F2FED57A9A90AF84AE182F54C4BE17 A8F05369ECDFDB07B9726FC40BA260E8 33F777C1F05E11A19DB291B0A58A40CA D4694D6D6994BDABC0AAC7537EECFDE3 AC4B155B7E3221D60E73287CAC4626FB
+6349E5FE9EB9AEB4A743539EC318618E 2A14714E00C406CC834A878D9ACFEF62 6B00B2997BCE92CB02B3A956BDC01D38 CA921ECD509F790C06BE8903AEF9AC63 940A5B8B24AA1344D83A37C434082B1C
+
+A33670EC92E931F6F5AC85FCA3A6C4B8 4D17CC3CC4A2FB0A3706EEFD689C8BA5 587210EE1481EA73EB804FF7D839BAC6
+%Linea sin informacion
+%Linea sin informacion
+
+8C439A587C4F6A0173C576196FF0B1BF F5C0653F8F31E887771476C9926A1255 D91AACE7D1A068589BBD852AD8B13DA5
+
+
+A2842722D62597071FCAF4B185C66B7E B218B7D220B065CE6567FAFC4CBF23DA 3F12D41993FCAAC0A77E726FA531152C C818ABE818FE16E39868B3FC4C7EAEB7 F6108046830AD4B0B669CCE2B41AD476
+D45F39C2DAD738EDA3057C3BFF4F78C2 258B010E5A133C56E568243E91026154
+13EEA7908AD5DFD911D1E8F718D68B06 CD380E3426EA6CC156744F4AA80F73BA C9B7E19D462BFD849FB81D905169394E F93B027F3320425FA981202F2C9E4BDC 400FE6969792859BF916E8F814E58AE8
+E2B71C88D13BE32496E6C2C25CDF9213 C818ABE818FE16E39868B3FC4C7EAEB7 4408888656A308EF26B578C97F661001 40D9749F4891B15EA57F00CAD8363CD1 1674EDF45780FD478349573077339C28
+
+E443AFC47EA5BFEA75C054A99E93D25E C02E5060F6D613677B00E8FE4230F36C 40AF1B23E8A3F9B71B884D2DBEC9B39F
+
+A501F128FAB157CFFC6999F1BCC46662 C525CF36520BF265C3A6ACF3D472C3B9
+41C99A9D38A9D5FE34C043C48FC1111E 1571B4FAB69796AD841AD63071E6D29B C525CF36520BF265C3A6ACF3D472C3B9 CE474F507E657F1641C461414E24C5AF 435990ACF002ECB7ADF2A937971BDAB9
+8CD7EB5692A3BE6CAC9729229CE5EEDC B74A2163CEF9CEBFC66926006E735A7C F93B027F3320425FA981202F2C9E4BDC 6926DB65436D525B13433C6F6BBE158D
+
+97A80401D0AC431BA2DE0F2BAFB9F3A6 90F28B54BE7867AF480B897F568E3302 A1183704D34E4CA1A1C9C68884C326F7 6FA1DEEDDEB5FFCDAC201647893DD266 3017C0573983D515B9FEBB1F41CCE292
+587210EE1481EA73EB804FF7D839BAC6 D0CD09B7B98DF32A2D379EBE9D93F709
+
+D774466CB7CDA9D302A91B584AE86E83 8ADC554874A71BBF637EC063DF9D069C 4EA366EE2DC0FDA0BBF85A81332A4040 1422B7C1D3E47B45831CC322149A6B67
+4F6AE30CFF3EAF62E3C45E2B9CA0FF6D A7463E06B8929729B1300A2567508F2A 315EB1724E13A7B6BCC5C3FA0367C7AE
+CE25501738AF3AB792CD2A516A53277B C5A2F6B6C3B252B8FB240588EFFC88DB 1A7B727CFD977758107F3161E52A3FB6 A43C841A521DD78BFB19E6F5AF4E6FB7
+C5585A2D3D995CE5CF7CFB62B15DB0B9 DE9BAD8E27044D8373792C1304E46FEB F2834728B0ABC8A2F45254A237D297AF
+
+E28245A9EDB245A499D7379EECEBC09E 75C366D87B3C11D84B41F0ADCCEB4559 8CFF87FE85FDB983AA37E092E489AD2A 47CDC69167A56A88A7C63F23912DCF2A
+
+D91AACE7D1A068589BBD852AD8B13DA5 D106EF2046D57F75AB835699CADF73F4 6D8B6A9663F277638EBD4C727801BA56
+0794B5DDB966EF7C6761208D515C6EE6 589CD2F391E144BDC94B57536CBE83A5 B74A2163CEF9CEBFC66926006E735A7C
+9BD64499AA0183C0A36ED2874896BDC1 073AD4CCBAE94E40D901EA8E22862AA0 B218B7D220B065CE6567FAFC4CBF23DA 5274FCE9AF2A68D963611AF1EC9450D7 F558E53D19A845A6B5C3771D38B2D87A
+F6CF8210794C2DC4AABDB8CCA4F0F64B 13137C215B59E36E34132653BC575641
+70C1A8B4E46B33FF3D3553500038A458 1BDBD7E9C7C2D18A8C75D33FEFA2ACCE 2EE79DFA7E75D371A27DF6127DB32597 E2B71C88D13BE32496E6C2C25CDF9213
+
+370D9BAAA6A7A11BE7250D66884D46E4 E0DF9358CBE730F4E5569A06E2E7EA1F C525CF36520BF265C3A6ACF3D472C3B9 4342F474717B9B86216569D2C2CBA497 2718FD57ECC53E5BBB89F5EBEB744462
+
+DF484EB96886BC8E19E1CD643E328342 D774466CB7CDA9D302A91B584AE86E83 577A8E9D9DB43D6F29E6D69FED77BB19 D106EF2046D57F75AB835699CADF73F4 D9478B24888006A4B319DEC0356AE408
+
+F0D08D43D0411A3103D5558BA190E860 CDFB5388ECE8DAE86DF6C06A453A496E 9A9F3DE12444C2296025742FBCB685CE 1422B7C1D3E47B45831CC322149A6B67 BAE0890F38762C7D8D7413702B513995
+
+1DAFAC4ED2E0970525CD4C27D07F116F E28245A9EDB245A499D7379EECEBC09E 4EE841136CF52CA0D42953AF87D94B95 589CD2F391E144BDC94B57536CBE83A5 ADA66DFECCD5A58BFC921694D419AF8C
+
+F707CB86C02E9830A3A626B58CC1CFDD 8EE4216E771A5C21ED06C11019343F80
+
+E5B120E7513DF1E8A19C1D5BC27BC568 BAD27348D68AD8D41B2EB4EEEF7D5A6B
+6B00B2997BCE92CB02B3A956BDC01D38 68AAF47AECFF57ABFE386D588817D13E 7C8A9963D213CFF8EC9ABEF9B6D10EF7 A43C841A521DD78BFB19E6F5AF4E6FB7
+
+D727DDD5F1CEA57F0EF4F82E6E04A51F 0794B5DDB966EF7C6761208D515C6EE6
+
+
+9B9640183E306B085230006D012D186A 33F777C1F05E11A19DB291B0A58A40CA
+9E5D58A9DB950F0B878043AC92625885 3AC180A0371AE6237B47E64C8DCC7267
+
+6F6A8005ED82C8D3B9DF5B4E0E139F23 97A80401D0AC431BA2DE0F2BAFB9F3A6 DF484EB96886BC8E19E1CD643E328342 02E616933A00BCACFD107E898B1F407B B08FC44AE730C318A77C7C4DA6BD2314
+
+7E44006E2C8B51046ABAD501A3D20A7D 36D2458EA289D03569C41F9D55C5448A
+
+
+F934C60E13EB41A17984E6520DA7AD6A 3263588C7AF3ACD7A0F8BD757D48ADB5
+3C114E9A534020099DC1B7B5DA27C717 1DBE10F89C95A369F7513B5B8135D5D7 EB1BCFBFA86F517A6A90AFBDE8E3A125 C301036F526D87A50395D10AB5F9D3AA 8CD7EB5692A3BE6CAC9729229CE5EEDC
+CA921ECD509F790C06BE8903AEF9AC63 F76CEE224C66A6D862F4CF129984A520
+9F4A1EE271F3498A383CB7A2081E9FCF 7E03B621E2EBC9C6BBDFC085BA18044F DAB573CFD0CBBA10755A73FFBB5DE44E 90F28B54BE7867AF480B897F568E3302
+
+7C1DC81C09EA0F3FA1CA208F01E646ED 82CA699B02E31BC71E0CA6DB81CFA23E E28245A9EDB245A499D7379EECEBC09E 05F49D2096BA590CF5F94B0F95D096C7 E443AFC47EA5BFEA75C054A99E93D25E
+
+8D669B744EDC8A309D5F5A67B6925808 2BFA276C989BB8BC8CE9D0668C4BE66D 92A461B069D7F9B7DE47048DFB11C189 53C650645FD8B92FC3D4BBD7E0E2EC48 1C6A87DB8FABDF8EC1ABA5576C454A4F
+
+78F13A6D25F1CFCD1149C022F0B08453 745810ADA7E2419D48E8D7693BC0733F CBE4E1FD040BD509CEB84FB78068970A
+6168AA986E3FB0001A552790B049C6AB 1422B7C1D3E47B45831CC322149A6B67 1049A883FF47ADC1F80C9A9A4CD7B73E 7825EFEDA4E3C58C14EA1CC63859937C B67CE366D95A6FA64CB1347C73C266C8
+CA4C8607BEF915A8605145022121E7F4 BB5D264351A15EB80CDE96334EDB91BC 9C884BD08AE2040766F4F81E20707A47 40D9749F4891B15EA57F00CAD8363CD1 78F13A6D25F1CFCD1149C022F0B08453
+
+
+3017C0573983D515B9FEBB1F41CCE292 E5F25C6DE4E5E7C35364CBF3A4388047 09ABAD6FD7E2B785480B7E60023860ED 3017C0573983D515B9FEBB1F41CCE292
+
+DE9BAD8E27044D8373792C1304E46FEB CA921ECD509F790C06BE8903AEF9AC63 2EE79DFA7E75D371A27DF6127DB32597 06C62707DD8D4FD7CAFC202609AE49E3 2FB8CE35713F3D03985225A32D56C058
+C44A9C872E1854FB035A9869A5CE7D68 9A9F3DE12444C2296025742FBCB685CE 258B010E5A133C56E568243E91026154 075EE239BA1F00CF6C595AAB71CFBA5A
+CD380E3426EA6CC156744F4AA80F73BA 589CD2F391E144BDC94B57536CBE83A5
+
+
+9D0E91CAE05B55E7578C9F1939A2E0CA 961649151E316D0681CE611D9FA393E5 A6B98A77033FDA2B0FAE71A455C111CA 64DC50E95226D45E18F104E22D5099A6 1ED18DB19FD61DCEC289AD9DA688FB25
+
+
+
+EF15BA1980EA4557755706C8D978F25C FC2363701E210C6EFE529766E560A323 EF15BA1980EA4557755706C8D978F25C 7C1DC81C09EA0F3FA1CA208F01E646ED
+
+39CEBDBE4A23DB14DF1AD9AA7CB56EFB F76CEE224C66A6D862F4CF129984A520
+
+
+FC2363701E210C6EFE529766E560A323 4015EDF6E2E00655989070005736027A 395FF5D78C98A913B949DFE0607845CA
+
+
+F558E53D19A845A6B5C3771D38B2D87A 7ACC70EE2CEA878F5F79368F47CAFE3E E008A66E3889AEC968A0FF75AC103F0C 53C650645FD8B92FC3D4BBD7E0E2EC48
+86D67BACFED4C7313D2137DC28573025 7D56BEF564CC368B9085D85A93374E99 C301036F526D87A50395D10AB5F9D3AA
+
+
+F14FA60DC90195DB9A8CE69C8D6C8C3C E5F25C6DE4E5E7C35364CBF3A4388047 6F6A8005ED82C8D3B9DF5B4E0E139F23 161CC14017B08114FD55C7500C843B15
+
+45EF2977DDFF49C4887EAA95CC5EEF63 C44A9C872E1854FB035A9869A5CE7D68
+
+563C089ECE8F98F274D0D178FC62B8ED 1049A883FF47ADC1F80C9A9A4CD7B73E 4959D289F9E03245E1DE2418E17DCFC3
+%Linea sin informacion
+
+A2C5D811193555A164BB2C65C539F284 A43C841A521DD78BFB19E6F5AF4E6FB7
+9C884BD08AE2040766F4F81E20707A47 A8F05369ECDFDB07B9726FC40BA260E8 BFECD96CA4281147BE875671E162D6F7
+%Linea sin informacion
+3AC180A0371AE6237B47E64C8DCC7267 F76CEE224C66A6D862F4CF129984A520 DF484EB96886BC8E19E1CD643E328342 7E44006E2C8B51046ABAD501A3D20A7D BC51C8F7724F69185029CC2EF69EB639
+
+D106EF2046D57F75AB835699CADF73F4 0532AEAAC268903CF5CA04001F2065D9 84C76BB084D2099B7C7CC7137E2B9755 B572CE1E59D6DAF58CF121B21A82B086
+
+2311A6C3B326BF5545557F206E9A3A06 7F3B3578D907C318FAFA1FD1D78524A0 7A6408F7CDDBB5552692689F1E4C0D32
+
+7808D3B3CBB59DA1FBBBC74D520109A1 8D669B744EDC8A309D5F5A67B6925808 6C1428E9EFE7FE7C45438581138D4E12
+
+EB1BCFBFA86F517A6A90AFBDE8E3A125 4408888656A308EF26B578C97F661001
+
+8FC03ACEA5A1EDAFF1611E672A1B992D 47CDC69167A56A88A7C63F23912DCF2A 611FF7B203F445A39A241C0D70B16BD0
+A1183704D34E4CA1A1C9C68884C326F7 AB26D41DC6D9308AC931F9D805C61500
+
+
+43E5427D026DD561D890614B0935BD3F E443AFC47EA5BFEA75C054A99E93D25E
+D95AD0FCB51AE26CCD3E15298EEA6836 82ADC23189B0C8611BC73EBBE7F5DB3D 0C1137470E62599B238D30EFE91CA43A 2311A6C3B326BF5545557F206E9A3A06
+D0CD09B7B98DF32A2D379EBE9D93F709 41582A4850CDFF396EB14FEE5B5D360B 45EF2977DDFF49C4887EAA95CC5EEF63 52FD423F39EBD770A2B45F3FC3A7A69F FD62B8316C4B4BE9ED211862B197E205
+
+
+B75570AD878DA4BAF60DBA48C8A27789 2718FD57ECC53E5BBB89F5EBEB744462 1D573A2BD0A902F444BB7DCBB0E73C0F
+
+7CD2151CA9BF9DC7B2733891FC3115F3 538A226D86E3A3A7B13CC47114E12D29 CBE4E1FD040BD509CEB84FB78068970A 11D1F2F108E7030D10E56473942ACE5C 8FC03ACEA5A1EDAFF1611E672A1B992D
+76361F6D8C362DEA36EC7CEFAF004F17 1674EDF45780FD478349573077339C28
+0C1137470E62599B238D30EFE91CA43A F6CF8210794C2DC4AABDB8CCA4F0F64B
+7A6408F7CDDBB5552692689F1E4C0D32 7B5D2A04A61E4E56BE18DC58EA99ADCD 22FC5BC6633DA05F00F98216EE8A83E7
+1422B7C1D3E47B45831CC322149A6B67 D98089E9EBE39890F0199C007104CFA9 BB5D264351A15EB80CDE96334EDB91BC 435990ACF002ECB7ADF2A937971BDAB9
+3B304B3F01DAF1F431F41F0FB948E240 F707CB86C02E9830A3A626B58CC1CFDD
+
+315EB1724E13A7B6BCC5C3FA0367C7AE 1BDBD7E9C7C2D18A8C75D33FEFA2ACCE BF5AA5E3E3C6B96EEFA8477185CD62C5 3B35200F55C5A4C9E5F62447E28879CC 36D2458EA289D03569C41F9D55C5448A
+52FD423F39EBD770A2B45F3FC3A7A69F B74A2163CEF9CEBFC66926006E735A7C 9CFC53E29E99C38E002610B7674FF07E 5F88218FC9ACFBD6678556A295CAFBD1
+DAB573CFD0CBBA10755A73FFBB5DE44E 1674EDF45780FD478349573077339C28
+337CC93035A3E1C1EC41A1702AC87AD0 DAB573CFD0CBBA10755A73FFBB5DE44E
+C632A229FB9876E770FDB1F0B4C7CD69 8FC03ACEA5A1EDAFF1611E672A1B992D D727DDD5F1CEA57F0EF4F82E6E04A51F CBE4E1FD040BD509CEB84FB78068970A
+
+
+6C1428E9EFE7FE7C45438581138D4E12 9CFC53E29E99C38E002610B7674FF07E 2E530C8FC9EFD903AA4B34A7A8BB2DE5
+%Linea sin informacion
+0D3F81DB12BD62AF9786719367D8F672 E4D3B37B0F218999F400B6DF3631AE2A
+
+
+C4B25FBBDAEBFF576B84829EADAAC473 0F919D23D171A1471CDDFEC3B88B9863 073AD4CCBAE94E40D901EA8E22862AA0 6D3F15BED9C56228E4BCCB2AB681F94D
+5F88218FC9ACFBD6678556A295CAFBD1 9CFC53E29E99C38E002610B7674FF07E CF7661F84619F873B326DC8797154797 A2842722D62597071FCAF4B185C66B7E
+
+
+2E5E083BE731DF5C968781C5356C9941 A43C841A521DD78BFB19E6F5AF4E6FB7
+13137C215B59E36E34132653BC575641 5383348C791CAE2FB3C4E42506E957DC A501F128FAB157CFFC6999F1BCC46662 81B4B3C6E888286778664CCF1AA95ABD
+%Linea sin informacion
+4408888656A308EF26B578C97F661001 BCDBF7C753383BD0B7429E2592492372 DE8B290E2CBA3ACDCBE5F7703FA526FE C5A2F6B6C3B252B8FB240588EFFC88DB
+C6E3C4DF5723BC74BB7DDC439D7B5804 7E44006E2C8B51046ABAD501A3D20A7D 39CEBDBE4A23DB14DF1AD9AA7CB56EFB
+
+F5C0653F8F31E887771476C9926A1255 C4B25FBBDAEBFF576B84829EADAAC473 C6E3C4DF5723BC74BB7DDC439D7B5804 E690E41802C6403E51DB3A5704BBABF3
+
+7B6AE601969608658F5AD6023C5C59C9 1A7B727CFD977758107F3161E52A3FB6 6926DB65436D525B13433C6F6BBE158D C4027AC8A35FA6F0C91DE372B64B6114 2E5E083BE731DF5C968781C5356C9941
+BB5D264351A15EB80CDE96334EDB91BC 7CC797C343E5905D0A624DDAD62C8375 7CD2151CA9BF9DC7B2733891FC3115F3 53C650645FD8B92FC3D4BBD7E0E2EC48
+%Linea sin informacion
+
+33F777C1F05E11A19DB291B0A58A40CA 1DBE10F89C95A369F7513B5B8135D5D7 C5A2F6B6C3B252B8FB240588EFFC88DB
+972834B45AC4C8AB0EF1D8025C11917E 577A8E9D9DB43D6F29E6D69FED77BB19 A6B98A77033FDA2B0FAE71A455C111CA D774466CB7CDA9D302A91B584AE86E83 199BBE1A122FA7F6D9CFDA1F5C586C08
+
+C4CC3A77D11B9B8F3B79859E627A8AB6 99687498EBCFDB11BE8DFD0CBBDBCA06 78144475FDF8199EEEEE599E28E59667
+
+%Linea sin informacion
+C5A2F6B6C3B252B8FB240588EFFC88DB D95AD0FCB51AE26CCD3E15298EEA6836
+%Linea sin informacion
+

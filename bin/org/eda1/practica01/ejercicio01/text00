@@ -1,0 +1,39 @@
+$Insert
+You can fool
+all the people
+some of the time,
+and some of the people
+all the time,
+but you cannot fool
+all the people
+all the time.
+$Line 2
+$GetLines 2 1
+$ GetLines 2 2
+$GetLines 2 2
+$GetLines 2 2
+$GetLines 2 2
+$Line 0
+$Insert
+Lincoln once said that
+you can fool
+...
+all the time.
+$Line 8
+$Insert
+some of the people
+$Last
+$GetLines 0 10
+$Line 5
+$GetLines 5 5
+$Line 6
+$GetLines 6 6
+$Line 8
+$GetLines 8 8
+$Line 9
+$GetLines 9 9
+$Delete 3 3
+$GetLines 0 10
+$Last
+$GetLines 0 9
+$Done

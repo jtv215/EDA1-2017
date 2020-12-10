@@ -1,0 +1,117 @@
+%Archivo de datos del trabajador
+
+@empleados
+Juan Rodriguez Guzman
+Alberto Istoia Cruz
+Luis Rogelio Perez Sanchez
+María Mercedes Cabrera Libia
+
+Norberto Sanchez Rodriguez
+ 
+Pedro Martos Real
+
+@datos
+Pedro Martos Real#2014#2#- 2 8 - 0 1 - 2 2 - - - 7 3 2 - 6 6 - 4 6 7 0 6 4 5 7 -
+María Mercedes Cabrera Libia#2016#7#1 8 4 - 2 8 - 4 2 3 7 2 - - 4 8 6 7 1 3 - - - 3 - - 5 6 - 7 -
+Norberto Sanchez Rodriguez#2016#6#8 - 3 5 3 6 - 5 - - - 1 2 4 3 4 - 7 8 1 7 1 - 2 1 8 - 0 5 4 -
+Norberto Sanchez Rodriguez#2014#9#1 - 1 - - 7 8 2 - 5 - 5 - 2 7 - - 4 - 5 7 3 7 - 8 8 7 - - - -
+Alberto Istoia Cruz#2015#8#5 - 2 7 3 5 - 5 0 8 2 - - - 0 5 1 6 0 6 4 7 5 3 - - 0 - - 2 -
+Juan Rodriguez Guzman#2015#6#2 8 - - 0 7 - 1 3 - 7 8 - 7 7 1 6 - - 0 8 7 0 3 - 3 4 1 - 4
+
+Juan Rodriguez Guzman#2016#4#1 6 - 1 - - 2 6 7 3 - 8 8 1 3 - - - 7 - 3 4 6 1 - - 2 - 8 1
+María Mercedes Cabrera Libia#2016#5#5 - 2 - - 7 - 2 7 6 3 - 8 3 3 5 8 - 0 - 7 - 2 8 0 - - - 5 0 -
+María Mercedes Cabrera Libia#2015#7#- - 3 - 7 3 0 7 - 6 0 8 0 0 8 - 7 8 6 - 3 5 0 3 - - 8 0 - 1 -
+Alberto Istoia Cruz#2015#4#6 3 2 3 0 - - 5 - 3 - 0 4 2 - 0 1 - - 3 8 - 4 4 7 5 4 8 8 2
+Norberto Sanchez Rodriguez#2014#5#0 - 7 8 3 8 8 4 - 1 - 3 2 - - 0 - 0 6 - 1 6 1 1 3 7 3 6 - 6 -
+Luis Rogelio Perez Sanchez#2016#12#6 6 - 6 8 - 5 - 3 6 1 2 2 - 6 7 - 0 6 - 6 - 8 - - - 3 - - 8 -
+luis rogelio perez sanchez#2016#12#- - 5 - - - 0 2 - - 1 - 4 - 2 7 3 8 - - 8 - 0 - 0 5 3 - 4 2 -
+ 
+Pedro Martos Real#2015#2#2 5 - - 3 5 3 8 2 - 7 6 8 - - 0 - - - - 4 - 4 3 - 6 6 3
+Luis Rogelio Perez Sanchez#2015#4#3 1 4 1 - 0 - 8 0 6 1 - 7 5 1 1 - 3 2 2 5 2 - 0 - 0 4 6 - 7
+Juan Rodriguez Guzman#2013#1#- 0 2 1 - 2 7 - - - - - 6 4 5 8 - 4 - 6 6 - 3 7 8 7 4 0 - 6 -
+María Mercedes Cabrera Libia#2016#9#8 2 5 5 7 - 2 2 8 - 1 3 0 - 8 8 7 8 0 5 5 5 - 5 7 - 4 - 1 -
+
+Antonio Lopez Casas#2014#6#8 6 - 1 - 2 - - 1 1 2 6 5 6 8 8 - 2 0 5 4 4 1 5 - 3 0 3 6 0
+María Mercedes Cabrera Libia#2016#11#3 - - - - 0 - - 2 1 3 - 8 8 0 6 4 8 - 3 8 0 - - 8 - - 1 8 5
+María Mercedes Cabrera Libia#2015#4#7 8 4 0 2 2 8 6 6 - - 5 2 5 4 3 - - 2 - 1 3 8 4 - 3 4 4 6 7
+Norberto Sanchez Rodriguez#2015#8#0 6 - 6 - 1 3 5 - 6 - 3 - - 4 8 1 - 1 5 8 6 - 5 - 4 - 6 0 - -
+Juan Rodriguez Guzman#2014#10#2 7 5 - 3 3 5 6 3 0 - - 7 2 8 - 2 8 - - 3 2 8 3 - - 5 - 1 5 -
+María Mercedes Cabrera Libia#2014#6#8 6 - 1 - 2 - - 1 1 2 6 5 6 8 8 - 2 0 5 4 4 1 5 - 3 0 3 6 0
+Alberto Istoia Cruz#2016#1#1 3 - - 7 - 0 - - 8 - - 8 - 2 7 0 8 - - - 7 2 8 7 6 2 8 8 - -
+Juan Rodriguez Guzman#2014#6#5 - 2 0 - - - 1 3 5 8 8 5 - 4 2 3 6 7 - 3 - 0 2 6 6 - 4 6 0
+Juan Rodriguez Guzman#2014#11#3 2 0 - 7 6 0 - - 7 - - 3 1 6 2 8 6 1 8 4 5 4 4 - 7 - 5 2 2
+Alberto Istoia Cruz#2014#5#2 - - 8 - 3 - 4 5 - 4 - - 4 5 - - 4 2 4 - 0 - 0 0 8 7 - 8 8 -
+Luis Rogelio Perez Sanchez#2015#11#3 0 5 0 - 3 2 - 7 - - 0 3 - - 1 2 7 1 8 1 - 5 3 7 7 0 4 5 7
+María Mercedes Cabrera Libia#2014#9#- 2 5 7 7 8 4 6 2 2 1 4 7 1 - 5 6 8 1 6 4 - - 3 - 7 4 0 1 1
+Luis Rogelio Perez Sanchez#2014#2#1 - - 3 1 6 6 - 2 2 2 5 - 8 - - - 6 - - - 0 - - 1 0 - 4
+María Mercedes Cabrera Libia#2015#4#0 4 - 3 3 5 1 - 2 5 5 5 - - 4 4 - 0 7 - 8 3 - - 5 3 - 0 3 2
+Alberto Istoia Cruz#2016#9#4 4 - 6 4 4 2 - - 3 3 - 8 1 7 3 - - 7 - 4 - 4 5 - 0 1 0 0 7
+Luis Rogelio Perez Sanchez#2016#5#6 8 3 - - 1 - 7 - 2 4 0 4 - 5 2 - 2 2 1 8 8 8 - 7 - - 7 - 3 -
+Norberto Sanchez Rodriguez#2015#4#0 - 8 - 1 - 6 5 1 5 5 - - 6 2 - - - 4 5 - - 3 6 - - 2 6 4 7
+María Mercedes Cabrera Libia#2014#6#- - 1 - - - 2 1 8 6 1 - - - 5 1 8 0 - 0 1 3 2 - - 1 6 1 4 8
+Juan Rodriguez Guzman#2015#11#6 4 4 - 1 8 - 7 2 - 6 8 - 7 - 6 - 3 1 5 - 8 6 1 1 5 2 7 3 -
+Juan Rodriguez Guzman#2015#4#2 - 8 - 6 5 - 5 3 0 7 8 0 3 2 8 - 4 3 2 - - - 2 8 - 5 3 1 -
+Norberto Sanchez Rodriguez#2016#10#7 0 6 - - 6 7 7 4 1 8 6 3 8 5 3 1 - 8 3 - 8 5 2 - 4 - 4 4 1 -
+Luis Rogelio Perez Sanchez#2016#3#- 0 - 6 7 7 3 1 - 2 5 7 4 5 3 4 2 7 - 6 1 6 1 1 3 1 3 8 0 - -
+Juan Rodriguez Guzman#2015#11#3 - 4 5 8 - 5 3 0 - - - - 0 - 8 8 6 2 - 5 2 - 5 0 1 3 1 8 0
+Luis Rogelio Perez Sanchez#2016#11#3 - 7 - - 7 - - 3 - 5 7 4 2 2 - - - 6 - - - - 8 - - 2 - 0 3
+María Mercedes Cabrera Libia#2014#7#0 - - 1 - 6 - 1 - - 8 3 6 0 - - - 5 - - 5 - - 5 8 8 5 - - 3 2
+Juan Rodriguez Guzman#2016#12#- 4 5 1 0 7 - 3 5 6 7 - - 8 5 2 4 2 3 - - - 7 - 2 1 6 2 4 8 -
+Alberto Istoia Cruz#2015#3#- 4 3 - - 0 1 5 4 1 8 8 - 0 1 7 4 3 - - 0 3 1 0 - 6 7 - 7 2 -
+Juan Rodriguez Guzman#2015#8#3 6 6 6 3 8 8 1 5 - 5 8 6 3 4 6 1 2 6 - 7 4 3 - - - 6 7 8 2 -
+Luis Rogelio Perez Sanchez#2015#10#4 6 - 1 1 6 - 4 - 5 6 5 0 - 2 1 7 7 6 0 2 7 3 6 5 8 8 - 8 - -
+Pedro Martos Real#2014#6#2 4 - 1 6 2 4 3 5 - 7 0 - - 7 5 3 5 - 1 8 - - 8 3 7 6 8 - 8
+Luis Rogelio Perez Sanchez#2015#1#0 - 6 - 3 4 2 8 2 1 3 5 6 6 7 2 6 6 - 7 - 4 - - 7 5 - 3 3 - -
+María Mercedes Cabrera Libia#2016#9#- 5 3 7 1 5 4 6 7 2 - 0 1 3 6 - 2 7 - - 3 - - 7 2 3 1 - 8 7
+Norberto Sanchez Rodriguez#2015#8#- 4 - - 5 7 5 - 6 5 - 3 - - 7 0 1 4 5 - - 5 5 - - 2 3 - 8 3 -
+Alberto Istoia Cruz#2016#11#- 0 8 - 0 - 2 8 - - - - 2 - - - 6 3 - - 8 8 - 4 - 3 5 - 6 1
+María Mercedes Cabrera Libia#2014#1#- 5 6 1 1 - - 1 3 - 4 8 0 4 7 5 6 7 - 8 7 6 5 1 3 7 - 6 5 7 -
+Norberto Sanchez Rodriguez#2016#10#2 2 - - 7 4 5 2 - 2 1 - 3 - 2 1 3 7 - - 8 0 - 0 - 0 7 - 2 - -
+Norberto Sanchez Rodriguez#2016#5#1 - 6 0 0 1 8 8 5 0 8 3 6 - 6 0 - 3 6 - 5 8 6 0 1 - 7 - 3 6 -
+Norberto Sanchez Rodriguez#2015#3#- 0 8 - - 6 - - 0 6 5 5 3 3 6 4 1 4 5 6 6 0 3 - 1 5 - 1 7 - -
+Juan Rodriguez Guzman#2014#4#7 5 0 2 6 - 6 3 6 0 - 1 0 8 2 4 6 3 7 - 2 0 5 6 - 3 - - - 5
+María Mercedes Cabrera Libia#2014#1#6 4 - 8 5 5 2 0 - 8 7 - 2 - 4 0 4 - 4 7 - 4 - - 4 8 0 - - - -
+Luis Rogelio Perez Sanchez#2014#10#7 2 4 4 5 - 7 - - 5 4 2 - 3 - - 2 6 0 2 0 2 - 8 6 5 - 4 1 3 -
+Pedro Martos Real#2016#11#- - - - - 3 - 3 - 3 8 6 4 3 - 5 0 - - 0 3 4 6 - - 5 - 8 7 8
+Pedro Martos Real#2014#6#0 0 8 - 1 - 4 - - 3 1 1 4 8 0 - 0 - 7 0 - 4 7 - 1 - - 2 - 6
+Luis Rogelio Perez Sanchez#2016#8#- 4 2 7 - 2 2 2 - - 6 - 4 - 5 - - - - 1 - - 7 2 - 0 5 2 - 0 -
+Juan Rodriguez Guzman#2016#10#4 0 7 5 - - 1 0 7 7 6 8 4 3 8 1 - 0 4 - - - 0 6 6 7 - - - 1 -
+Juan Rodriguez Guzman#2015#12#4 5 8 0 5 - 0 - 2 2 - - - - 2 7 5 8 5 7 - - - 5 - - 5 6 8 - -
+Juan Rodriguez Guzman#2016#5#6 - 3 2 - - 6 - - - - 1 - 0 - - - - 7 0 8 4 6 1 - 7 6 2 7 2 -
+Pedro Martos Real#2016#5#8 5 3 8 3 5 8 2 7 0 - 1 1 2 - 7 - 2 5 - 1 5 - 2 3 - 5 - - 3 -
+Alberto Istoia Cruz#2014#6#0 - 1 0 - 5 4 5 0 0 1 2 2 - - 0 2 0 4 2 - 6 - - 7 7 8 4 7 6
+Luis Rogelio Perez Sanchez#2016#9#- 4 2 5 5 - 8 - 5 5 5 - - - - - 6 1 7 0 7 - 0 0 - 1 0 - - 2
+María Mercedes Cabrera Libia#2014#4#4 - 4 - - - 0 3 3 - - 5 2 - - 2 0 - - 7 8 0 - 7 6 3 8 5 6 0
+Norberto Sanchez Rodriguez#2014#3#5 8 2 - - 7 6 0 1 1 6 0 - - 2 4 0 - 1 1 8 5 1 8 1 - - 6 7 0 -
+Norberto Sanchez Rodriguez#2016#2#7 6 6 - 3 4 5 4 7 8 4 8 - 7 0 - 8 - 3 3 7 - 4 3 0 5 5 2
+Pedro Martos Real#2015#4#3 6 - 0 2 - 0 8 6 1 5 1 - 0 - 0 8 0 5 - 8 8 - 3 3 4 - - 1 1 -
+Luis Rogelio Perez Sanchez#2015#5#- 3 6 0 3 8 6 2 8 0 - - 0 - 6 3 4 1 0 0 1 - 6 2 - 2 0 3 - - -
+Luis Rogelio Perez Sanchez#2016#6#6 - 3 - - 3 0 - 3 5 7 3 - 0 - 3 3 8 0 8 2 6 1 - 2 - 6 - 2 7
+Alberto Istoia Cruz#2016#5#- 0 5 - 1 - - 8 - 4 7 1 6 - - 1 1 - 8 5 5 8 8 6 - 4 2 - 2 8 -
+Juan Rodriguez Guzman#2015#5#8 - - - - 1 1 1 5 3 - 7 5 4 4 2 7 5 - 1 6 - - 4 3 - - 3 8 - -
+Pedro Martos Real#2015#11#7 - 8 4 2 1 5 6 6 - 2 1 1 - - - 2 8 1 - - 8 4 5 - - 5 0 - -
+Luis Rogelio Perez Sanchez#2016#5#7 6 4 - 5 - - - 0 4 4 1 8 - 8 6 7 3 3 - 3 1 2 4 3 0 4 - 1 8 -
+Pedro Martos Real#2016#6#- 0 1 - 0 4 - - - 3 - - - - 5 7 - 0 5 - - 5 - - 4 7 2 - - 7
+Alberto Istoia Cruz#2016#10#0 4 - 5 1 1 - - 5 - 2 - 7 0 3 0 6 8 7 3 0 6 4 - 0 1 2 4 8 6 -
+María Mercedes Cabrera Libia#2016#2#- - 6 6 0 - 4 4 8 3 1 6 1 4 7 - 0 3 - - 1 0 4 0 - 4 1 0
+Pedro Martos Real#2014#8#- 7 3 6 2 6 - - 5 3 6 0 6 - - 7 7 - 6 2 - 3 - 0 1 3 3 - 5 6 -
+Luis Rogelio Perez Sanchez#2015#10#5 2 3 4 - - - - 6 0 5 - - 8 8 1 7 7 4 5 - - 0 4 3 6 8 3 1 8 -
+Luis Rogelio Perez Sanchez#2016#7#3 - 5 - - - 7 1 3 1 - 0 - 8 - - 2 - 3 2 3 5 4 - 0 2 - 2 8 2 -
+María Mercedes Cabrera Libia#2016#4#0 - 7 0 3 3 3 4 0 5 6 - 2 5 7 3 - 1 - 4 - - 8 3 - 3 6 0 - -
+Luis Rogelio Perez Sanchez#2015#5#0 - 8 2 2 - 8 7 5 4 0 3 3 4 - - 0 2 6 - 3 2 6 - 5 8 4 0 - 3 -
+Pedro Martos Real#2014#2#- 4 - 4 6 - 4 - 1 - - 1 2 3 4 6 0 6 7 - 5 6 6 - 5 3 7 8
+Alberto Istoia Cruz#2016#6#8 - 2 8 - 2 6 - 3 5 0 - 1 2 1 7 - 0 - 4 1 3 - 3 8 5 4 0 4 3
+María Mercedes Cabrera Libia#2016#5#0 7 3 - - 7 5 2 3 8 2 0 - 7 2 - 4 3 0 - - - 2 2 - - 3 - 2 - -
+Luis Rogelio Perez Sanchez#2016#10#- - - 3 0 1 - - 4 - 6 2 - 2 2 6 - 6 - - 5 5 8 5 3 - 4 7 - 1 -
+Alberto Istoia Cruz#2014#11#- - 4 - - - 8 5 - 6 6 3 1 7 8 - 0 7 - 2 7 1 - 2 2 2 4 4 - -
+Juan Rodriguez Guzman#2014#12#4 1 5 8 0 7 1 0 8 7 4 - - 6 - 8 7 - - - 3 6 5 - - 2 1 2 7 - -
+Pedro Martos Real#2016#10#3 - 6 7 7 0 4 4 - 0 - 5 5 4 - 5 - 2 - - 8 8 - 7 3 - 6 8 8 7 -
+Alberto Istoia Cruz#2016#10#8 - 2 0 8 - 5 1 1 - 4 7 - 3 - 7 5 1 - 1 - 7 - - 2 2 - - - - -
+Pedro Martos Real#2015#11#- 1 2 0 - 8 7 - - 3 6 2 0 5 4 0 8 8 4 4 1 - - 1 5 4 4 6 - 8
+Luis Rogelio Perez Sanchez#2016#5#3 - 5 5 0 3 4 2 - - 2 0 3 - 7 5 5 5 6 3 - - 4 2 - - 2 - 3 - -
+Pedro Martos Real#2016#12#6 3 - 0 - - 5 1 - - 8 - 5 - 2 1 1 - 7 8 - 4 1 3 0 2 4 - 4 1 -
+Alberto Istoia Cruz#2014#1#8 1 0 - - - - - - 3 0 7 3 6 7 2 2 7 3 4 - 1 - - - 8 - - 6 - -
+Norberto Sanchez Rodriguez#2014#12#0 3 - - - 2 0 8 - 2 - 3 2 - 5 - 1 7 5 8 - 7 1 8 - - 3 1 6 - -
+Norberto Sanchez Rodriguez#2014#7#3 7 8 - 5 1 - 1 3 8 - - 6 5 6 8 1 3 4 - - - 1 6 - - 7 0 - 0 -
+Alberto Istoia Cruz#2015#11#2 - 2 - 5 - 8 0 - 0 7 6 - - 8 - 2 4 6 4 - 6 - 6 - 2 3 6 1 0
+Norberto Sanchez Rodriguez#2015#8#4 3 5 1 - 8 - 4 - 6 2 6 1 2 8 2 4 - 2 7 4 6 7 - 3 5 - 5 0 - -
